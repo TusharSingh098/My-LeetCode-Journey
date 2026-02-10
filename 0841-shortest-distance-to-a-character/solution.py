@@ -1,10 +1,18 @@
 class Solution:
     def shortestToChar(self, s: str, c: str) -> List[int]:
-        idxs = []
-        for i in range(len(s)):
-            if (s[i] == c):
-                idxs.append(i)
-        distances = []
-        for i in range(len(s)):
-            distances.append(min(abs(i - j) for j in idxs))
+        n = len(s)
+        distances = [0] * n
+        prev_idx = -float('inf') 
+        for i in range(n):
+            if s[i] == c:
+                prev_idx = i
+            distances[i] = i - prev_idx
+        
+        prev_idx = float('inf') 
+        for i in range(n - 1, -1, -1):
+            if s[i] == c:
+                prev_idx = i
+            distances[i] = min(distances[i], prev_idx - i)
+            
         return distances
+

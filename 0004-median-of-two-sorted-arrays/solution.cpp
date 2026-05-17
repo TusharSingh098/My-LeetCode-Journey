@@ -2,36 +2,32 @@ class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
         int n1 = nums1.size(), n2 = nums2.size();
-        vector<double> merged(n1 + n2);
-        int i{0}, j{0}, k{0};
+        if (n1 > n2) return findMedianSortedArrays(nums2, nums1);
 
-        while (i < n1 && j < n2)
+        int low{0}, high{n1};
+        int left{(n1 + n2 + 1) / 2};
+
+        while (low <= high)
         {
-            if (nums1[i] <= nums2[j])
-            {
-                merged[k] = nums1[i];
-                i++;
-            }
+            int mid1{(low + high) >> 1}, mid2{left - mid1};
+
+            int l1{INT_MIN}, l2{INT_MIN};
+            int r1{INT_MAX}, r2{INT_MAX};
+
+            if (mid1 < n1) r1 = nums1[mid1];
+            if (mid2 < n2) r2 = nums2[mid2];
+            if (mid1 - 1 >= 0) l1 = nums1[mid1 - 1];
+            if (mid2 - 1 >= 0) l2 = nums2[mid2 - 1];
+
+            if (l1 > r2) high = mid1 - 1;
+            else if (l2 >  r1) low = mid1 + 1;
             else
             {
-                merged[k] = nums2[j];
-                j++;
+                if ((n1 + n2) % 2 == 0)
+                    return (max(l1, l2) + min(r1, r2)) / 2.0;
+                else return max(l1, l2);
             }
-            k++;
         }
-        while (i < n1)
-        {
-            merged[k] = nums1[i];
-            i++;
-            k++;
-        }
-        while (j < n2)
-        {
-            merged[k] = nums2[j];
-            j++;
-            k++;
-        }
-        if ((n1 + n2) % 2 == 0) return (merged[((n1 + n2) / 2) - 1] + merged[(n1 + n2) / 2]) / 2;
-        else return merged[(n1 + n2) / 2];
+        return -1.0;
     }
 };

@@ -3,14 +3,13 @@ public:
     bool isAnagram(string s, string t) {
         if (s.size() != t.size()) return false;
 
-        unordered_map<char, int> mpp1, mpp2;
-        for (char ch: s) mpp1[ch]++;
-        for (char ch: t) mpp2[ch]++;
-
-        for (char ch: s)
+        int letters[26] = {0};
+        for (char ch: s) letters[ch - 'a']++;
+        for (char ch: t) 
         {
-            if (mpp1[ch] != mpp2[ch]) return false;
+            if (--letters[ch - 'a'] < 0) return false;
         }
+
         return true;
     }
 };

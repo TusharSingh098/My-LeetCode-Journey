@@ -1,28 +1,30 @@
 class Solution {
+private:
+    int solve(string& s, int i, int sign, long long res)
+    {
+        if (i >= s.length() || !isdigit(s[i]))
+            return (int)res * sign;
+        
+        int digit{s[i] - '0'};
+        res = res * 10 + digit;
+
+        if (res > INT_MAX) return sign == 1 ? INT_MAX : INT_MIN;
+
+        return solve(s, i + 1, sign, res);
+    }
+
 public:
     int myAtoi(string s) {
-        int i{0}, n = s.length();
+        int n = s.length(), i{0}, sign{1};
 
         while (i < n && s[i] == ' ') i++;
 
-        int sign{1};
         if (i < n && (s[i] == '+' || s[i] == '-'))
         {
-            if (s[i] == '-') sign = -1;
+            sign = s[i] == '-' ? -1 : 1;
             i++;
         }
 
-        int result{0};
-        while (i < n && std::isdigit(s[i]))
-        {
-            int digit{s[i] - '0'};
-            if (result > INT_MAX / 10 || (result == INT_MAX / 10 && digit > INT_MAX % 10))
-            {
-                return (sign == 1) ? INT_MAX : INT_MIN;
-            }
-            result = result * 10 + digit;
-            i++;
-        }
-        return result * sign;
+        return solve(s, i, sign, 0);
     }
 };

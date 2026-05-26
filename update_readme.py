@@ -64,21 +64,27 @@ def update_readme():
     with open('README.md', 'r', encoding='utf-8') as file:
         content = file.read()
 
-    start_marker = "\n"
-    end_marker = ""
+    # CRITICAL FIX: Using the visible heading as the target to prevent copy-paste deletion
+    target_heading = "## 🗄️ Normalized Problem Database"
     
-    start_idx = content.find(start_marker)
-    end_idx = content.find(end_marker)
+    start_idx = content.find(target_heading)
 
-    if start_idx != -1 and end_idx != -1:
+    if start_idx != -1:
         new_table = generate_table()
-        new_content = content[:start_idx + len(start_marker)] + new_table + "\n" + content[end_idx:]
+        # Slices the document up to the heading, then drops the table directly below it
+        new_content = content[:start_idx + len(target_heading)] + "\n\n" + new_table + "\n"
         
         with open('README.md', 'w', encoding='utf-8') as file:
             file.write(new_content)
         print("README successfully updated!")
     else:
-        print("CRITICAL: Could not find injection markers in README.md")
+        print("CRITICAL: Could not find the target heading in README.md")
+
+if __name__ == "__main__":
+    update_readme()
+
+if __name__ == "__main__":
+    update_readme()
 
 if __name__ == "__main__":
     update_readme()

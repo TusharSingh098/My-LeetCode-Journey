@@ -269,3 +269,19 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 4316 | [Minimum Swaps To Move Zeros To End](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4316-minimum-swaps-to-move-zeros-to-end/) | Easy | `No Tags` |
 
 </details>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0022-generate-parentheses/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0022-generate-parentheses/) | Medium |
+<!---LeetCode Topics End-->

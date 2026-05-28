@@ -284,4 +284,13 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0022-generate-parentheses/) | Medium |
+| [0090-subsets-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0090-subsets-ii/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0090-subsets-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0090-subsets-ii/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0090-subsets-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->

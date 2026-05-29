@@ -275,6 +275,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0022-generate-parentheses/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -283,6 +284,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0022-generate-parentheses/) | Medium |
 | [0090-subsets-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0216-combination-sum-iii/) | Medium |
@@ -295,4 +297,8 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0090-subsets-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->

@@ -286,11 +286,13 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0022-generate-parentheses/) | Medium |
+| [0051-n-queens](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0216-combination-sum-iii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0216-combination-sum-iii/) | Medium |
 ## Bit Manipulation

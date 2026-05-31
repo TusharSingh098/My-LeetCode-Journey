@@ -274,3 +274,27 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 4316 | [Minimum Swaps To Move Zeros To End](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4316-minimum-swaps-to-move-zeros-to-end/) | Easy | `No Tags` |
 
 </details>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
+<!---LeetCode Topics End-->

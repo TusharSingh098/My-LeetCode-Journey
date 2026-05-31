@@ -59,10 +59,12 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0013 | [Roman To Integer](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0013-roman-to-integer/) | Easy | `Hash Table`, `Math`, `String` |
 | 0014 | [Longest Common Prefix](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0014-longest-common-prefix/) | Easy | `Array`, `String`, `Trie` |
 | 0015 | [3Sum](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0015-3sum/) | Medium | `Array`, `Two Pointers`, `Sorting` |
+| 0017 | [Letter Combinations Of A Phone Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium | `Hash Table`, `String`, `Backtracking` |
 | 0018 | [4Sum](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0018-4sum/) | Medium | `Array`, `Two Pointers`, `Sorting` |
 | 0019 | [Remove Nth Node From End Of List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium | `Linked List`, `Two Pointers` |
 | 0020 | [Valid Parentheses](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0020-valid-parentheses/) | Easy | `String`, `Stack` |
 | 0021 | [Merge Two Sorted Lists](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0021-merge-two-sorted-lists/) | Easy | `Linked List`, `Recursion` |
+| 0022 | [Generate Parentheses](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0022-generate-parentheses/) | Medium | `String`, `Dynamic Programming`, `Backtracking` |
 | 0025 | [Reverse Nodes In K Group](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0025-reverse-nodes-in-k-group/) | Hard | `Linked List`, `Recursion` |
 | 0026 | [Remove Duplicates From Sorted Array](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy | `Array`, `Two Pointers` |
 | 0027 | [Remove Element](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0027-remove-element/) | Easy | `Array`, `Two Pointers` |
@@ -75,6 +77,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0040 | [Combination Sum Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0040-combination-sum-ii/) | Medium | `Array`, `Backtracking` |
 | 0048 | [Rotate Image](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0048-rotate-image/) | Medium | `Array`, `Math`, `Matrix` |
 | 0050 | [Powx N](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0050-powx-n/) | Medium | `Math`, `Recursion` |
+| 0051 | [N Queens](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0051-n-queens/) | Hard | `Array`, `Backtracking` |
 | 0053 | [Maximum Subarray](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0053-maximum-subarray/) | Medium | `Array`, `Divide and Conquer`, `Dynamic Programming` |
 | 0054 | [Spiral Matrix](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0054-spiral-matrix/) | Medium | `Array`, `Matrix`, `Simulation` |
 | 0056 | [Merge Intervals](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0056-merge-intervals/) | Medium | `Array`, `Sorting` |
@@ -91,6 +94,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0081 | [Search In Rotated Sorted Array Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium | `Array`, `Binary Search` |
 | 0083 | [Remove Duplicates From Sorted List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy | `Linked List` |
 | 0088 | [Merge Sorted Array](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0088-merge-sorted-array/) | Easy | `Array`, `Two Pointers`, `Sorting` |
+| 0090 | [Subsets Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0090-subsets-ii/) | Medium | `Array`, `Backtracking`, `Bit Manipulation` |
 | 0094 | [Binary Tree Inorder Traversal](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0094-binary-tree-inorder-traversal/) | Easy | `Stack`, `Tree`, `Depth-First Search`, `Binary Tree` |
 | 0100 | [Same Tree](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0100-same-tree/) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | 0101 | [Symmetric Tree](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0101-symmetric-tree/) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
@@ -123,6 +127,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0203 | [Remove Linked List Elements](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0203-remove-linked-list-elements/) | Easy | `Linked List`, `Recursion` |
 | 0205 | [Isomorphic Strings](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0205-isomorphic-strings/) | Easy | `Hash Table`, `String` |
 | 0206 | [Reverse Linked List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0206-reverse-linked-list/) | Easy | `Linked List`, `Recursion` |
+| 0216 | [Combination Sum Iii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0216-combination-sum-iii/) | Medium | `Array`, `Backtracking` |
 | 0217 | [Contains Duplicate](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0217-contains-duplicate/) | Easy | `Array`, `Hash Table`, `Sorting` |
 | 0219 | [Contains Duplicate Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0219-contains-duplicate-ii/) | Easy | `Array`, `Hash Table`, `Sliding Window` |
 | 0222 | [Count Complete Tree Nodes](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0222-count-complete-tree-nodes/) | Easy | `Binary Search`, `Bit Manipulation`, `Tree`, `Binary Tree` |
@@ -269,38 +274,3 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 4316 | [Minimum Swaps To Move Zeros To End](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4316-minimum-swaps-to-move-zeros-to-end/) | Easy | `No Tags` |
 
 </details>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
-| [0022-generate-parentheses](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0022-generate-parentheses/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0022-generate-parentheses](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0022-generate-parentheses/) | Medium |
-## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
-| [0022-generate-parentheses](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0022-generate-parentheses/) | Medium |
-| [0051-n-queens](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0051-n-queens/) | Hard |
-| [0090-subsets-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0090-subsets-ii/) | Medium |
-| [0216-combination-sum-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0216-combination-sum-iii/) | Medium |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0051-n-queens](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0051-n-queens/) | Hard |
-| [0090-subsets-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0090-subsets-ii/) | Medium |
-| [0216-combination-sum-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0216-combination-sum-iii/) | Medium |
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0090-subsets-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0090-subsets-ii/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
-<!---LeetCode Topics End-->

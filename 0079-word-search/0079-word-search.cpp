@@ -28,17 +28,16 @@ public:
 
         for (int i{65}; i < 123; i++) if (bFreq[i] < wFreq[i]) return false;
 
-        string target{word};
         if (bFreq[word.back()] < bFreq[word[0]]) 
         {
-            reverse(target.begin(), target.end());
+            reverse(word.begin(), word.end());
         }
 
         for (int i{0}; i < row; i++)
         {
             for (int j{0}; j < col; j++)
             {
-                if (solve(board, target, i, j, 0)) return true;
+                if (solve(board, word, i, j, 0)) return true;
             }
         }
         return false;

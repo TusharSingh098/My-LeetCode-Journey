@@ -280,6 +280,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -288,6 +289,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -296,5 +298,10 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->

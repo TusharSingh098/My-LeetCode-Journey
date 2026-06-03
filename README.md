@@ -285,6 +285,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
 | [0136-single-number](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0137-single-number-ii/) | Medium |
+| [0204-count-primes](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0204-count-primes/) | Medium |
 | [0260-single-number-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0260-single-number-iii/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -315,6 +316,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0029-divide-two-integers/) | Medium |
+| [0204-count-primes](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0231-power-of-two/) | Easy |
 | [0282-expression-add-operators](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0282-expression-add-operators/) | Hard |
 ## Bit Manipulation
@@ -331,4 +333,12 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0231-power-of-two/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->

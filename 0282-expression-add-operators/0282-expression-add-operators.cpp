@@ -1,6 +1,6 @@
 class Solution {
 private:
-    void solve(string& num, int target, vector<string>& ans, int start, string exp, long long currVal, long long lastOpr)
+    void solve(string& num, int target, vector<string>& ans, int start, string& exp, long long currVal, long long lastOpr)
     {
         if (start == num.length())
         {
@@ -45,7 +45,7 @@ public:
         vector<string> ans;
         string exp;
         exp.reserve(num.length() * 2);
-        solve(num, target, ans, 0, "", 0, 0);
+        solve(num, target, ans, 0, exp, 0, 0);
         return ans;
     }
 };

@@ -11,12 +11,13 @@ private:
         return true;
     }
 
-    bool solve(vector<vector<char>>& board)
+    bool solve(vector<vector<char>>& board, int pos)
     {
-        for (int i{0}; i < board.size(); i++)
+        for (int i{pos / 9}; i < 9; i++)
         {
-            for (int j{0}; j < board[0].size(); j++)
+            for (int j{pos % 9}; j < 9; j++)
             {
+                pos++;
                 if (board[i][j] == '.')
                 {
                     for (char c{'1'}; c <= '9'; c++)
@@ -24,7 +25,7 @@ private:
                         if (isValid(board, i, j, c))
                         {
                             board[i][j] = c;
-                            if (solve(board)) return true;
+                            if (solve(board, pos)) return true;
                             else board[i][j] = '.';
                         }
                     }
@@ -36,6 +37,6 @@ private:
     }
 public:
     void solveSudoku(vector<vector<char>>& board) {
-        solve(board);
+        solve(board, 0);
     }
 };

@@ -13,28 +13,24 @@ private:
 
     bool solve(vector<vector<char>>& board, int pos)
     {
-        for (int i{pos / 9}; i < 9; i++)
+        if (pos == 81) return true;
+
+        int row{pos / 9}, col{pos % 9};
+
+        if (board[row][col] != '.') return solve(board, pos + 1);
+
+        for (char c{'1'}; c <= '9'; c++)
         {
-            for (int j{pos % 9}; j < 9; j++)
+            if (isValid(board, row, col, c))
             {
-                pos++;
-                if (board[i][j] == '.')
-                {
-                    for (char c{'1'}; c <= '9'; c++)
-                    {
-                        if (isValid(board, i, j, c))
-                        {
-                            board[i][j] = c;
-                            if (solve(board, pos)) return true;
-                            else board[i][j] = '.';
-                        }
-                    }
-                    return false;
-                }
+                board[row][col] = c;
+                if (solve(board, pos)) return true;
+                else board[row][col] = '.';
             }
         }
-        return true;
+        return false;
     }
+
 public:
     void solveSudoku(vector<vector<char>>& board) {
         solve(board, 0);

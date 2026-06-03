@@ -285,6 +285,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
 | [0136-single-number](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0137-single-number-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0260-single-number-iii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +325,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | [0136-single-number](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0260-single-number-iii/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |

@@ -10,7 +10,7 @@ private:
 
         for (int i{start}; i < num.size(); i++)
         {
-            if (i > start && num[start] == '0') return;
+            if (i > start && num[start] == '0') break;
 
             string currNum{num.substr(start, i - start + 1)};
             long long currNumVal{stoll(currNum)};

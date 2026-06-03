@@ -309,11 +309,13 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0029-divide-two-integers/) | Medium |
 | [0231-power-of-two](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0231-power-of-two/) | Easy |
 | [0282-expression-add-operators](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0282-expression-add-operators/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0029-divide-two-integers/) | Medium |
 | [0231-power-of-two](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0231-power-of-two/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |

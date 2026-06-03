@@ -286,11 +286,13 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
+| [0282-expression-add-operators](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0282-expression-add-operators/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
+| [0282-expression-add-operators](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0282-expression-add-operators/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,4 +306,8 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0037-sudoku-solver/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0282-expression-add-operators](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0282-expression-add-operators/) | Hard |
 <!---LeetCode Topics End-->

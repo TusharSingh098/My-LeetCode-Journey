@@ -341,4 +341,16 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0204-count-primes/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->

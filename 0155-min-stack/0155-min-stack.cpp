@@ -9,11 +9,11 @@ public:
     }
     
     void push(int value) {
-        if (stk.empty()) stk.push_back({value, value});
+        if (stk.empty()) stk.emplace_back(value, value);
         else
         {
             int mini{min(stk.back().second, value)};
-            stk.push_back({value, mini});
+            stk.emplace_back(value, mini);
         }
     }
     

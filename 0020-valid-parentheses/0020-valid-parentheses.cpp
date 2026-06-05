@@ -3,13 +3,14 @@ public:
     bool isValid(string s) {
         if (s.length() % 2 != 0) return false;
         
-        unordered_map<char, char> mpp{{')','('},{'}','{'},{']','['}};
         stack<char> stk;
         for (char ch: s)
         {
-            if (ch == '(' || ch == '{' || ch == '[') stk.push(ch);
-            else if (!stk.empty() && stk.top() == mpp[ch]) stk.pop();
-            else return false;
+            if (ch == '(') stk.push(')');
+            else if (ch == '{') stk.push('}');
+            else if (ch == '[') stk.push(']');
+            else if (stk.empty() || stk.top() != ch) return false;
+            else stk.pop();
         }
         return stk.empty();
     }

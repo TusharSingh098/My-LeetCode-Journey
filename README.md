@@ -290,6 +290,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
 | [0282-expression-add-operators](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0282-expression-add-operators/) | Hard |
 ## Backtracking
@@ -344,6 +345,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design

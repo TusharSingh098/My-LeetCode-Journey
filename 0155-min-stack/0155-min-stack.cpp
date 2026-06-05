@@ -3,7 +3,10 @@ private:
     vector<pair<int, int>> stk;
 
 public:
-    MinStack() {}
+    MinStack() 
+    {
+        stk.reserve(30000);
+    }
     
     void push(int value) {
         if (stk.empty()) stk.push_back({value, value});

@@ -345,12 +345,15 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->

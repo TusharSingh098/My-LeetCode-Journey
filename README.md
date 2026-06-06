@@ -287,6 +287,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | [0137-single-number-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0137-single-number-ii/) | Medium |
 | [0204-count-primes](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0204-count-primes/) | Medium |
 | [0260-single-number-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0260-single-number-iii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,6 +314,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0037-sudoku-solver/) | Hard |
+| [0496-next-greater-element-i](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,6 +351,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | [0155-min-stack](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0496-next-greater-element-i](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -360,4 +363,8 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->

@@ -14,15 +14,11 @@ public:
             }
             stk.push(num);
         }
-        while (!stk.empty())
-        {
-            mpp[stk.top()] = -1;
-            stk.pop();
-        }
+
         vector<int> ans;
         for (int num: nums1)
         {
-            ans.push_back(mpp[num]);
+            ans.push_back(mpp.count(num) ? mpp[num] : -1);
         }
         return ans;
     }

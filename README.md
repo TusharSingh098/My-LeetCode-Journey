@@ -290,13 +290,24 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0503-next-greater-element-ii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->

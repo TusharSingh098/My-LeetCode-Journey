@@ -69,10 +69,12 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0026 | [Remove Duplicates From Sorted Array](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy | `Array`, `Two Pointers` |
 | 0027 | [Remove Element](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0027-remove-element/) | Easy | `Array`, `Two Pointers` |
 | 0028 | [Find The Index Of The First Occurrence In A String](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | `Two Pointers`, `String`, `String Matching` |
+| 0029 | [Divide Two Integers](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0029-divide-two-integers/) | Medium | `Math`, `Bit Manipulation` |
 | 0031 | [Next Permutation](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0031-next-permutation/) | Medium | `Array`, `Two Pointers` |
 | 0033 | [Search In Rotated Sorted Array](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium | `Array`, `Binary Search` |
 | 0034 | [Find First And Last Position Of Element In Sorted Array](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium | `Array`, `Binary Search` |
 | 0035 | [Search Insert Position](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0035-search-insert-position/) | Easy | `Array`, `Binary Search` |
+| 0037 | [Sudoku Solver](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0037-sudoku-solver/) | Hard | `Array`, `Hash Table`, `Backtracking`, `Matrix` |
 | 0039 | [Combination Sum](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0039-combination-sum/) | Medium | `Array`, `Backtracking` |
 | 0040 | [Combination Sum Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0040-combination-sum-ii/) | Medium | `Array`, `Backtracking` |
 | 0048 | [Rotate Image](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0048-rotate-image/) | Medium | `Array`, `Math`, `Matrix` |
@@ -91,6 +93,8 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0073 | [Set Matrix Zeroes](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0073-set-matrix-zeroes/) | Medium | `Array`, `Hash Table`, `Matrix` |
 | 0074 | [Search A 2D Matrix](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0074-search-a-2d-matrix/) | Medium | `Array`, `Binary Search`, `Matrix` |
 | 0075 | [Sort Colors](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0075-sort-colors/) | Medium | `Array`, `Two Pointers`, `Sorting` |
+| 0078 | [Subsets](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0078-subsets/) | Medium | `Array`, `Backtracking`, `Bit Manipulation` |
+| 0079 | [Word Search](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0079-word-search/) | Medium | `Array`, `String`, `Backtracking`, `Depth-First Search`, `Matrix` |
 | 0081 | [Search In Rotated Sorted Array Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium | `Array`, `Binary Search` |
 | 0083 | [Remove Duplicates From Sorted List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy | `Linked List` |
 | 0088 | [Merge Sorted Array](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0088-merge-sorted-array/) | Easy | `Array`, `Two Pointers`, `Sorting` |
@@ -106,6 +110,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0125 | [Valid Palindrome](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0125-valid-palindrome/) | Easy | `Two Pointers`, `String` |
 | 0128 | [Longest Consecutive Sequence](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0128-longest-consecutive-sequence/) | Medium | `Array`, `Hash Table`, `Union-Find` |
 | 0136 | [Single Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0136-single-number/) | Easy | `Array`, `Bit Manipulation` |
+| 0137 | [Single Number Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0137-single-number-ii/) | Medium | `Array`, `Bit Manipulation` |
 | 0138 | [Copy List With Random Pointer](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0138-copy-list-with-random-pointer/) | Medium | `Hash Table`, `Linked List` |
 | 0141 | [Linked List Cycle](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0141-linked-list-cycle/) | Easy | `Hash Table`, `Linked List`, `Two Pointers` |
 | 0142 | [Linked List Cycle Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0142-linked-list-cycle-ii/) | Medium | `Hash Table`, `Linked List`, `Two Pointers` |
@@ -114,6 +119,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0152 | [Maximum Product Subarray](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0152-maximum-product-subarray/) | Medium | `Array`, `Dynamic Programming` |
 | 0153 | [Find Minimum In Rotated Sorted Array](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium | `Array`, `Binary Search` |
 | 0154 | [Find Minimum In Rotated Sorted Array Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard | `Array`, `Binary Search` |
+| 0155 | [Min Stack](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0155-min-stack/) | Medium | `Stack`, `Design` |
 | 0160 | [Intersection Of Two Linked Lists](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0160-intersection-of-two-linked-lists/) | Easy | `Hash Table`, `Linked List`, `Two Pointers` |
 | 0162 | [Find Peak Element](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0162-find-peak-element/) | Medium | `Array`, `Binary Search` |
 | 0168 | [Excel Sheet Column Title](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0168-excel-sheet-column-title/) | Easy | `Math`, `String` |
@@ -125,6 +131,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0191 | [Number Of 1 Bits](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0191-number-of-1-bits/) | Easy | `Divide and Conquer`, `Bit Manipulation` |
 | 0202 | [Happy Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0202-happy-number/) | Easy | `Hash Table`, `Math`, `Two Pointers` |
 | 0203 | [Remove Linked List Elements](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0203-remove-linked-list-elements/) | Easy | `Linked List`, `Recursion` |
+| 0204 | [Count Primes](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0204-count-primes/) | Medium | `Array`, `Math`, `Enumeration`, `Number Theory` |
 | 0205 | [Isomorphic Strings](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0205-isomorphic-strings/) | Easy | `Hash Table`, `String` |
 | 0206 | [Reverse Linked List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0206-reverse-linked-list/) | Easy | `Linked List`, `Recursion` |
 | 0216 | [Combination Sum Iii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0216-combination-sum-iii/) | Medium | `Array`, `Backtracking` |
@@ -142,9 +149,11 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0240 | [Search A 2D Matrix Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0240-search-a-2d-matrix-ii/) | Medium | `Array`, `Binary Search`, `Divide and Conquer`, `Matrix` |
 | 0242 | [Valid Anagram](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0242-valid-anagram/) | Easy | `Hash Table`, `String`, `Sorting` |
 | 0258 | [Add Digits](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0258-add-digits/) | Easy | `Math`, `Simulation`, `Number Theory` |
+| 0260 | [Single Number Iii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0260-single-number-iii/) | Medium | `Array`, `Bit Manipulation` |
 | 0263 | [Ugly Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0263-ugly-number/) | Easy | `Math` |
 | 0268 | [Missing Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0268-missing-number/) | Easy | `Array`, `Hash Table`, `Math`, `Binary Search`, `Bit Manipulation`, `Sorting` |
 | 0278 | [First Bad Version](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0278-first-bad-version/) | Easy | `Binary Search`, `Interactive` |
+| 0282 | [Expression Add Operators](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0282-expression-add-operators/) | Hard | `Math`, `String`, `Backtracking` |
 | 0283 | [Move Zeroes](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0283-move-zeroes/) | Easy | `Array`, `Two Pointers` |
 | 0287 | [Find The Duplicate Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0287-find-the-duplicate-number/) | Medium | `Array`, `Two Pointers`, `Binary Search`, `Bit Manipulation` |
 | 0290 | [Word Pattern](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0290-word-pattern/) | Easy | `Hash Table`, `String` |
@@ -259,6 +268,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 2047 | [Find A Peak Element Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/2047-find-a-peak-element-ii/) | Medium | `Array`, `Binary Search`, `Matrix` |
 | 2050 | [Count Good Numbers](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/2050-count-good-numbers/) | Medium | `Math`, `Recursion` |
 | 2216 | [Delete The Middle Node Of A Linked List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/2216-delete-the-middle-node-of-a-linked-list/) | Medium | `Linked List`, `Two Pointers` |
+| 2220 | [Minimum Bit Flips To Convert Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy | `Bit Manipulation` |
 | 2271 | [Rearrange Array Elements By Sign](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/2271-rearrange-array-elements-by-sign/) | Medium | `Array`, `Two Pointers`, `Simulation` |
 | 3408 | [Count The Number Of Special Characters I](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/3408-count-the-number-of-special-characters-i/) | Easy | `Hash Table`, `String` |
 | 3651 | [Transformed Array](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/3651-transformed-array/) | Easy | `Array`, `Simulation` |
@@ -268,103 +278,9 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 4214 | [Count Dominant Indices](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4214-count-dominant-indices/) | Easy | `Array`, `Enumeration` |
 | 4281 | [Score Validator](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4281-score-validator/) | Easy | `Array`, `String`, `Simulation` |
 | 4299 | [Concatenate Array With Reverse](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4299-concatenate-array-with-reverse/) | Easy | `Array`, `Simulation` |
-| 4300 | [Minimum Operations To Make Array Modulo Alternating I](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4300-minimum-operations-to-make-array-modulo-alternating-i/) | Medium | `No Tags` |
+| 4300 | [Minimum Operations To Make Array Modulo Alternating I](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4300-minimum-operations-to-make-array-modulo-alternating-i/) | Medium | `Array`, `Enumeration` |
 | 4303 | [Count K Th Roots In A Range](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4303-count-k-th-roots-in-a-range/) | Medium | `Math`, `Binary Search` |
 | 4305 | [Check Adjacent Digit Differences](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4305-check-adjacent-digit-differences/) | Easy | `String` |
-| 4316 | [Minimum Swaps To Move Zeros To End](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4316-minimum-swaps-to-move-zeros-to-end/) | Easy | `No Tags` |
+| 4316 | [Minimum Swaps To Move Zeros To End](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4316-minimum-swaps-to-move-zeros-to-end/) | Easy | `Array`, `Two Pointers` |
 
 </details>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0037-sudoku-solver](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0037-sudoku-solver/) | Hard |
-| [0078-subsets](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0078-subsets/) | Medium |
-| [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
-| [0136-single-number](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0136-single-number/) | Easy |
-| [0137-single-number-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0137-single-number-ii/) | Medium |
-| [0204-count-primes](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0204-count-primes/) | Medium |
-| [0260-single-number-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0260-single-number-iii/) | Medium |
-| [0496-next-greater-element-i](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0020-valid-parentheses](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0020-valid-parentheses/) | Easy |
-| [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
-| [0282-expression-add-operators](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0282-expression-add-operators/) | Hard |
-## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0037-sudoku-solver](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0037-sudoku-solver/) | Hard |
-| [0078-subsets](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0078-subsets/) | Medium |
-| [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
-| [0282-expression-add-operators](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0282-expression-add-operators/) | Hard |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0037-sudoku-solver](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0037-sudoku-solver/) | Hard |
-| [0079-word-search](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0079-word-search/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0037-sudoku-solver](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0037-sudoku-solver/) | Hard |
-| [0496-next-greater-element-i](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0029-divide-two-integers](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0029-divide-two-integers/) | Medium |
-| [0204-count-primes](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0204-count-primes/) | Medium |
-| [0231-power-of-two](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0231-power-of-two/) | Easy |
-| [0282-expression-add-operators](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0282-expression-add-operators/) | Hard |
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0029-divide-two-integers](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0029-divide-two-integers/) | Medium |
-| [0078-subsets](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0078-subsets/) | Medium |
-| [0136-single-number](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0136-single-number/) | Easy |
-| [0137-single-number-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0137-single-number-ii/) | Medium |
-| [0231-power-of-two](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0231-power-of-two/) | Easy |
-| [0260-single-number-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0260-single-number-iii/) | Medium |
-| [2220-minimum-bit-flips-to-convert-number](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0231-power-of-two](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0231-power-of-two/) | Easy |
-## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0204-count-primes](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0204-count-primes/) | Medium |
-## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0204-count-primes](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0204-count-primes/) | Medium |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0020-valid-parentheses](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0020-valid-parentheses/) | Easy |
-| [0155-min-stack](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0155-min-stack/) | Medium |
-| [0225-implement-stack-using-queues](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
-| [0232-implement-queue-using-stacks](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
-| [0496-next-greater-element-i](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
-## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0155-min-stack](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0155-min-stack/) | Medium |
-| [0225-implement-stack-using-queues](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
-| [0232-implement-queue-using-stacks](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
-## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0225-implement-stack-using-queues](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
-| [0232-implement-queue-using-stacks](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
-## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0496-next-greater-element-i](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
-<!---LeetCode Topics End-->

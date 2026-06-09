@@ -299,6 +299,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0402-remove-k-digits](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -307,6 +308,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0402-remove-k-digits](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -323,4 +325,12 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0735-asteroid-collision/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0402-remove-k-digits/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->

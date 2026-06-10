@@ -1,39 +1,25 @@
 class Solution {
-private:
-    vector<pair<int,int>> prevNextSmallerIndices(vector<int>& arr) 
-    {
-        int n = arr.size();
-        vector<pair<int,int>> ans(n, {-1,n});
-        stack<int> stk;
-
-        for (int i{0}; i < n; i++)
-        {
-            while (!stk.empty() && arr[stk.top()] > arr[i]) stk.pop();
-
-            if (!stk.empty()) ans[i].first = stk.top();
-            stk.push(i);
-        }
-        stk = {};
-        for (int i{n - 1}; i >= 0; i--)
-        {
-            while (!stk.empty() && arr[stk.top()] >= arr[i]) stk.pop();
-
-            if (!stk.empty()) ans[i].second = stk.top();
-            stk.push(i);
-        }
-        return ans;
-    }
-
 public:
     int largestRectangleArea(vector<int>& heights) {
+        int n = heights.size();
+        stack<int> stk;
         int ans{0};
-        vector<pair<int, int>> indices{prevNextSmallerIndices(heights)};
 
-        for (int i{0}; i < heights.size(); i++)
+        for (int i{0}; i <= n; i++)
         {
-            ans = max(ans, (indices[i].second - indices[i].first - 1) * heights[i]);
+            int currVal{(i == n) ? 0 : heights[i]};
+
+            while (!stk.empty() && heights[stk.top()] >= currVal)
+            {
+                int mid{stk.top()};
+                stk.pop();
+
+                int pse{stk.empty() ? -1 : stk.top()}, nse{i};
+
+                ans = max(ans, (nse - pse - 1) * heights[mid]);
+            }
+            stk.push(i);
         }
         return ans;
-
     }
 };

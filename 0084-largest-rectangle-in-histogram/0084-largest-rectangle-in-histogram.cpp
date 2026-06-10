@@ -7,16 +7,16 @@ public:
 
         for (int i{0}; i <= n; i++)
         {
-            int currHeight{(i == n) ? 0 : heights[i]};
+            int currVal{(i == n) ? 0 : heights[i]};
 
-            while (!stk.empty() && heights[stk.top()] > currHeight)
+            while (!stk.empty() && heights[stk.top()] >= currVal)
             {
-                int height{heights[stk.top()]};
+                int mid{stk.top()};
                 stk.pop();
 
-                int width{stk.empty() ? i : i - stk.top() - 1};
+                int pse{stk.empty() ? -1 : stk.top()}, nse{i};
 
-                ans = max(ans, width * height);
+                ans = max(ans, (nse - pse - 1) * heights[mid]);
             }
             stk.push(i);
         }

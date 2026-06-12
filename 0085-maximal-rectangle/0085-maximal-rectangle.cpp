@@ -8,11 +8,13 @@ public:
 
         for (int i{0}; i < m; i++)
         {
-            stk = {};
+            for (int j{0}; j < n; j++)
+            {
+                temp[j] = (matrix[i][j] == '1') ? temp[j] + 1 : 0;
+            }
+
             for (int j{0}; j <= n; j++)
             {
-                if (j < n) temp[j] = (matrix[i][j] == '1') ? temp[j] + 1 : 0;
-
                 int currVal{(j == n) ? 0 : temp[j]};
 
                 while (!stk.empty() && temp[stk.top()] >= currVal)
@@ -24,7 +26,7 @@ public:
 
                     ans = max(ans, (nse - pse - 1) * temp[mid]);
                 }
-                stk.push(j);
+                if (j < n) stk.push(j);
             }
         }
         return ans;

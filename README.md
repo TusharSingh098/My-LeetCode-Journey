@@ -293,6 +293,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | [0042-trapping-rain-water](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0085-maximal-rectangle/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -344,4 +345,20 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0085-maximal-rectangle/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->

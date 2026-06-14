@@ -77,6 +77,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0037 | [Sudoku Solver](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0037-sudoku-solver/) | Hard | `Array`, `Hash Table`, `Backtracking`, `Matrix` |
 | 0039 | [Combination Sum](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0039-combination-sum/) | Medium | `Array`, `Backtracking` |
 | 0040 | [Combination Sum Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0040-combination-sum-ii/) | Medium | `Array`, `Backtracking` |
+| 0042 | [Trapping Rain Water](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0042-trapping-rain-water/) | Hard | `Array`, `Two Pointers`, `Dynamic Programming`, `Stack`, `Monotonic Stack` |
 | 0048 | [Rotate Image](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0048-rotate-image/) | Medium | `Array`, `Math`, `Matrix` |
 | 0050 | [Powx N](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0050-powx-n/) | Medium | `Math`, `Recursion` |
 | 0051 | [N Queens](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0051-n-queens/) | Hard | `Array`, `Backtracking` |
@@ -97,6 +98,8 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0079 | [Word Search](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0079-word-search/) | Medium | `Array`, `String`, `Backtracking`, `Depth-First Search`, `Matrix` |
 | 0081 | [Search In Rotated Sorted Array Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium | `Array`, `Binary Search` |
 | 0083 | [Remove Duplicates From Sorted List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy | `Linked List` |
+| 0084 | [Largest Rectangle In Histogram](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard | `Array`, `Stack`, `Monotonic Stack` |
+| 0085 | [Maximal Rectangle](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0085-maximal-rectangle/) | Hard | `Array`, `Dynamic Programming`, `Stack`, `Matrix`, `Monotonic Stack` |
 | 0088 | [Merge Sorted Array](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0088-merge-sorted-array/) | Easy | `Array`, `Two Pointers`, `Sorting` |
 | 0090 | [Subsets Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0090-subsets-ii/) | Medium | `Array`, `Backtracking`, `Bit Manipulation` |
 | 0094 | [Binary Tree Inorder Traversal](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0094-binary-tree-inorder-traversal/) | Easy | `Stack`, `Tree`, `Depth-First Search`, `Binary Tree` |
@@ -146,6 +149,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0232 | [Implement Queue Using Stacks](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0232-implement-queue-using-stacks/) | Easy | `Stack`, `Design`, `Queue` |
 | 0234 | [Palindrome Linked List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0234-palindrome-linked-list/) | Easy | `Linked List`, `Two Pointers`, `Stack`, `Recursion` |
 | 0237 | [Delete Node In A Linked List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0237-delete-node-in-a-linked-list/) | Medium | `Linked List` |
+| 0239 | [Sliding Window Maximum](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0239-sliding-window-maximum/) | Hard | `Array`, `Queue`, `Sliding Window`, `Heap (Priority Queue)`, `Monotonic Queue` |
 | 0240 | [Search A 2D Matrix Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0240-search-a-2d-matrix-ii/) | Medium | `Array`, `Binary Search`, `Divide and Conquer`, `Matrix` |
 | 0242 | [Valid Anagram](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0242-valid-anagram/) | Easy | `Hash Table`, `String`, `Sorting` |
 | 0258 | [Add Digits](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0258-add-digits/) | Easy | `Math`, `Simulation`, `Number Theory` |
@@ -174,6 +178,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0389 | [Find The Difference](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0389-find-the-difference/) | Easy | `Hash Table`, `String`, `Bit Manipulation`, `Sorting` |
 | 0392 | [Is Subsequence](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0392-is-subsequence/) | Easy | `Two Pointers`, `String`, `Dynamic Programming` |
 | 0401 | [Binary Watch](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0401-binary-watch/) | Easy | `Backtracking`, `Bit Manipulation` |
+| 0402 | [Remove K Digits](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0402-remove-k-digits/) | Medium | `String`, `Stack`, `Greedy`, `Monotonic Stack` |
 | 0405 | [Convert A Number To Hexadecimal](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy | `Math`, `String`, `Bit Manipulation` |
 | 0409 | [Longest Palindrome](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0409-longest-palindrome/) | Easy | `Hash Table`, `String`, `Greedy` |
 | 0410 | [Split Array Largest Sum](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0410-split-array-largest-sum/) | Hard | `Array`, `Binary Search`, `Dynamic Programming`, `Greedy`, `Prefix Sum` |
@@ -196,6 +201,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0495 | [Teemo Attacking](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0495-teemo-attacking/) | Easy | `Array`, `Simulation` |
 | 0496 | [Next Greater Element I](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0496-next-greater-element-i/) | Easy | `Array`, `Hash Table`, `Stack`, `Monotonic Stack` |
 | 0500 | [Keyboard Row](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0500-keyboard-row/) | Easy | `Array`, `Hash Table`, `String` |
+| 0503 | [Next Greater Element Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0503-next-greater-element-ii/) | Medium | `Array`, `Stack`, `Monotonic Stack` |
 | 0504 | [Base 7](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0504-base-7/) | Easy | `Math`, `String` |
 | 0506 | [Relative Ranks](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0506-relative-ranks/) | Easy | `Array`, `Sorting`, `Heap (Priority Queue)` |
 | 0507 | [Perfect Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0507-perfect-number/) | Easy | `Math` |
@@ -228,6 +234,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0724 | [Find Pivot Index](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0724-find-pivot-index/) | Easy | `Array`, `Prefix Sum` |
 | 0728 | [Self Dividing Numbers](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0728-self-dividing-numbers/) | Easy | `Math` |
 | 0733 | [Flood Fill](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0733-flood-fill/) | Easy | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
+| 0735 | [Asteroid Collision](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0735-asteroid-collision/) | Medium | `Array`, `Stack`, `Simulation` |
 | 0742 | [To Lower Case](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0742-to-lower-case/) | Easy | `String` |
 | 0745 | [Find Smallest Letter Greater Than Target](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0745-find-smallest-letter-greater-than-target/) | Easy | `Array`, `Binary Search` |
 | 0747 | [Min Cost Climbing Stairs](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0747-min-cost-climbing-stairs/) | Easy | `Array`, `Dynamic Programming` |
@@ -251,6 +258,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0866 | [Rectangle Overlap](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0866-rectangle-overlap/) | Easy | `Math`, `Geometry` |
 | 0874 | [Backspace String Compare](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0874-backspace-string-compare/) | Easy | `Two Pointers`, `String`, `Stack`, `Simulation` |
 | 0907 | [Koko Eating Bananas](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0907-koko-eating-bananas/) | Medium | `Array`, `Binary Search` |
+| 0907 | [Sum Of Subarray Minimums](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0907-sum-of-subarray-minimums/) | Medium | `Array`, `Dynamic Programming`, `Stack`, `Monotonic Stack` |
 | 0908 | [Middle Of The Linked List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0908-middle-of-the-linked-list/) | Easy | `Linked List`, `Two Pointers` |
 | 1013 | [Fibonacci Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1013-fibonacci-number/) | Easy | `Math`, `Dynamic Programming`, `Recursion`, `Memoization` |
 | 1056 | [Capacity To Ship Packages Within D Days](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1056-capacity-to-ship-packages-within-d-days/) | Medium | `Array`, `Binary Search` |
@@ -267,6 +275,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 2032 | [Largest Odd Number In String](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/2032-largest-odd-number-in-string/) | Easy | `Math`, `String`, `Greedy` |
 | 2047 | [Find A Peak Element Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/2047-find-a-peak-element-ii/) | Medium | `Array`, `Binary Search`, `Matrix` |
 | 2050 | [Count Good Numbers](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/2050-count-good-numbers/) | Medium | `Math`, `Recursion` |
+| 2104 | [Sum Of Subarray Ranges](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/2104-sum-of-subarray-ranges/) | Medium | `Array`, `Stack`, `Monotonic Stack` |
 | 2216 | [Delete The Middle Node Of A Linked List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/2216-delete-the-middle-node-of-a-linked-list/) | Medium | `Linked List`, `Two Pointers` |
 | 2220 | [Minimum Bit Flips To Convert Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy | `Bit Manipulation` |
 | 2271 | [Rearrange Array Elements By Sign](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/2271-rearrange-array-elements-by-sign/) | Medium | `Array`, `Two Pointers`, `Simulation` |
@@ -284,81 +293,3 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 4316 | [Minimum Swaps To Move Zeros To End](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4316-minimum-swaps-to-move-zeros-to-end/) | Easy | `Array`, `Two Pointers` |
 
 </details>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
-| [0084-largest-rectangle-in-histogram](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
-| [0085-maximal-rectangle](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0085-maximal-rectangle/) | Hard |
-| [0239-sliding-window-maximum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
-| [0503-next-greater-element-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0503-next-greater-element-ii/) | Medium |
-| [0735-asteroid-collision](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0735-asteroid-collision/) | Medium |
-| [0907-sum-of-subarray-minimums](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0907-sum-of-subarray-minimums/) | Medium |
-| [2104-sum-of-subarray-ranges](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/2104-sum-of-subarray-ranges/) | Medium |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
-| [0084-largest-rectangle-in-histogram](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
-| [0085-maximal-rectangle](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0085-maximal-rectangle/) | Hard |
-| [0402-remove-k-digits](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0402-remove-k-digits/) | Medium |
-| [0503-next-greater-element-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0503-next-greater-element-ii/) | Medium |
-| [0735-asteroid-collision](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0735-asteroid-collision/) | Medium |
-| [0907-sum-of-subarray-minimums](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0907-sum-of-subarray-minimums/) | Medium |
-| [2104-sum-of-subarray-ranges](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/2104-sum-of-subarray-ranges/) | Medium |
-## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
-| [0084-largest-rectangle-in-histogram](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
-| [0085-maximal-rectangle](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0085-maximal-rectangle/) | Hard |
-| [0402-remove-k-digits](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0402-remove-k-digits/) | Medium |
-| [0503-next-greater-element-ii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0503-next-greater-element-ii/) | Medium |
-| [0907-sum-of-subarray-minimums](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0907-sum-of-subarray-minimums/) | Medium |
-| [2104-sum-of-subarray-ranges](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/2104-sum-of-subarray-ranges/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
-| [0085-maximal-rectangle](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0085-maximal-rectangle/) | Hard |
-| [0907-sum-of-subarray-minimums](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0907-sum-of-subarray-minimums/) | Medium |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0735-asteroid-collision](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0735-asteroid-collision/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0402-remove-k-digits](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0402-remove-k-digits/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0402-remove-k-digits](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0402-remove-k-digits/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0085-maximal-rectangle](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0085-maximal-rectangle/) | Hard |
-## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0239-sliding-window-maximum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0239-sliding-window-maximum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0239-sliding-window-maximum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
-## Monotonic Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0239-sliding-window-maximum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
-<!---LeetCode Topics End-->

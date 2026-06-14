@@ -1,19 +1,21 @@
 class StockSpanner 
 {
 private:
-    std::vector<int> prices;
+    std::stack<std::pair<int, int>> stk;
 public:
     StockSpanner() {}
     
     int next(int price) 
     {
-        prices.push_back(price);
-        int i = prices.size() - 1, count{0};
-        while (i >= 0 && prices[i] <= price)
+        int count{1};
+
+        while (!stk.empty() && stk.top().first <= price) 
         {
-            count++;
-            i--;
+            count += stk.top().second;
+            stk.pop();
         }
+        
+        stk.push({price, count});
         return count;
     }
 };

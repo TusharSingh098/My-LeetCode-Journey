@@ -303,6 +303,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0460-lfu-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0460-lfu-cache/) | Hard |
 | [0901-online-stock-span](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -312,4 +313,16 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0901-online-stock-span/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0460-lfu-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0460-lfu-cache/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0460-lfu-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0460-lfu-cache/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0460-lfu-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->

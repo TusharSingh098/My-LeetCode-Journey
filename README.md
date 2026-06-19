@@ -317,6 +317,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0146-lru-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0460-lfu-cache/) | Hard |
 ## Linked List
@@ -329,4 +330,12 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0460-lfu-cache/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->

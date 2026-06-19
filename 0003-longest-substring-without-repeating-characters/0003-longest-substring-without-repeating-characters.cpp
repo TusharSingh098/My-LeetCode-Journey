@@ -1,23 +1,16 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int n = s.length();
-        int left{0}, right{0}, maxi{0};
-        bool unique[128] = {false};
+        int left{0}, maxi{0};
+        int nextIdx[128] = {0};
 
-        while (right < n)
+        for (int right{0}; right < s.length(); right++)
         {
             char ch{s[right]};
 
-            while (unique[ch])
-            {
-                unique[s[left]] = false;
-                left++;
-            }
-
-            unique[ch] = true;
+            left = max(left, nextIdx[ch]);
             maxi = max(maxi, right - left + 1);
-            right++;
+            nextIdx[ch] = right + 1;
         }
         return maxi;
     }

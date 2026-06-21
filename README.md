@@ -51,6 +51,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | :--- | :--- | :--- | :--- |
 | 0001 | [Two Sum](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0001-two-sum/) | Easy | `Array`, `Hash Table` |
 | 0002 | [Add Two Numbers](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0002-add-two-numbers/) | Medium | `Linked List`, `Math`, `Recursion` |
+| 0003 | [Longest Substring Without Repeating Characters](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium | `Hash Table`, `String`, `Sliding Window` |
 | 0004 | [Median Of Two Sorted Arrays](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0004-median-of-two-sorted-arrays/) | Hard | `Array`, `Binary Search`, `Divide and Conquer` |
 | 0005 | [Longest Palindromic Substring](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0005-longest-palindromic-substring/) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
 | 0007 | [Reverse Integer](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0007-reverse-integer/) | Medium | `Math` |
@@ -117,6 +118,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0138 | [Copy List With Random Pointer](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0138-copy-list-with-random-pointer/) | Medium | `Hash Table`, `Linked List` |
 | 0141 | [Linked List Cycle](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0141-linked-list-cycle/) | Easy | `Hash Table`, `Linked List`, `Two Pointers` |
 | 0142 | [Linked List Cycle Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0142-linked-list-cycle-ii/) | Medium | `Hash Table`, `Linked List`, `Two Pointers` |
+| 0146 | [Lru Cache](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0146-lru-cache/) | Medium | `Hash Table`, `Linked List`, `Design`, `Doubly-Linked List` |
 | 0148 | [Sort List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0148-sort-list/) | Medium | `Linked List`, `Two Pointers`, `Divide and Conquer`, `Sorting`, `Merge Sort` |
 | 0151 | [Reverse Words In A String](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0151-reverse-words-in-a-string/) | Medium | `Two Pointers`, `String` |
 | 0152 | [Maximum Product Subarray](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0152-maximum-product-subarray/) | Medium | `Array`, `Dynamic Programming` |
@@ -191,6 +193,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0451 | [Sort Characters By Frequency](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0451-sort-characters-by-frequency/) | Medium | `Hash Table`, `String`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting` |
 | 0455 | [Assign Cookies](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0455-assign-cookies/) | Easy | `Array`, `Two Pointers`, `Greedy`, `Sorting` |
 | 0459 | [Repeated Substring Pattern](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0459-repeated-substring-pattern/) | Easy | `String`, `String Matching` |
+| 0460 | [Lfu Cache](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0460-lfu-cache/) | Hard | `Hash Table`, `Linked List`, `Design`, `Doubly-Linked List` |
 | 0461 | [Hamming Distance](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0461-hamming-distance/) | Easy | `Bit Manipulation` |
 | 0463 | [Island Perimeter](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0463-island-perimeter/) | Easy | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
 | 0476 | [Number Complement](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0476-number-complement/) | Easy | `Bit Manipulation` |
@@ -257,6 +260,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0861 | [Flipping An Image](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0861-flipping-an-image/) | Easy | `Array`, `Two Pointers`, `Bit Manipulation`, `Matrix`, `Simulation` |
 | 0866 | [Rectangle Overlap](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0866-rectangle-overlap/) | Easy | `Math`, `Geometry` |
 | 0874 | [Backspace String Compare](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0874-backspace-string-compare/) | Easy | `Two Pointers`, `String`, `Stack`, `Simulation` |
+| 0901 | [Online Stock Span](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0901-online-stock-span/) | Medium | `Stack`, `Design`, `Monotonic Stack`, `Data Stream` |
 | 0907 | [Koko Eating Bananas](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0907-koko-eating-bananas/) | Medium | `Array`, `Binary Search` |
 | 0907 | [Sum Of Subarray Minimums](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0907-sum-of-subarray-minimums/) | Medium | `Array`, `Dynamic Programming`, `Stack`, `Monotonic Stack` |
 | 0908 | [Middle Of The Linked List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0908-middle-of-the-linked-list/) | Easy | `Linked List`, `Two Pointers` |
@@ -293,49 +297,3 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 4316 | [Minimum Swaps To Move Zeros To End](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4316-minimum-swaps-to-move-zeros-to-end/) | Easy | `Array`, `Two Pointers` |
 
 </details>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0901-online-stock-span](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0901-online-stock-span/) | Medium |
-## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0146-lru-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0146-lru-cache/) | Medium |
-| [0460-lfu-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0460-lfu-cache/) | Hard |
-| [0901-online-stock-span](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0901-online-stock-span/) | Medium |
-## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0901-online-stock-span](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0901-online-stock-span/) | Medium |
-## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0901-online-stock-span](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0901-online-stock-span/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-| [0146-lru-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0146-lru-cache/) | Medium |
-| [0460-lfu-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0460-lfu-cache/) | Hard |
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0146-lru-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0146-lru-cache/) | Medium |
-| [0460-lfu-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0460-lfu-cache/) | Hard |
-## Doubly-Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0146-lru-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0146-lru-cache/) | Medium |
-| [0460-lfu-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0460-lfu-cache/) | Hard |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-<!---LeetCode Topics End-->

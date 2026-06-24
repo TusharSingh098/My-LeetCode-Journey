@@ -297,3 +297,23 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 4316 | [Minimum Swaps To Move Zeros To End](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4316-minimum-swaps-to-move-zeros-to-end/) | Easy | `Array`, `Two Pointers` |
 
 </details>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+<!---LeetCode Topics End-->

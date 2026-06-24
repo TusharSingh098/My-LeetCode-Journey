@@ -303,6 +303,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -316,4 +317,16 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->

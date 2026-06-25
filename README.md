@@ -303,6 +303,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Greedy
@@ -325,15 +326,18 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

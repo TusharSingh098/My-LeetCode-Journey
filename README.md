@@ -330,6 +330,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | [0930-binary-subarrays-with-sum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,10 +343,12 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | [0424-longest-repeating-character-replacement](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

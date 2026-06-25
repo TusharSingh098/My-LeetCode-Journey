@@ -1,6 +1,6 @@
 class Solution {
 private:
-    int solve(vector<int>& nums, int goal)
+    int solve(const vector<int>& nums, int goal)
     {
         if (goal < 0) return 0;
         int left{0}, sum{0}, count{0};

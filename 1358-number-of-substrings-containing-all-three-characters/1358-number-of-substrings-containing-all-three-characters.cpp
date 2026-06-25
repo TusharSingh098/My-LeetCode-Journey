@@ -1,20 +1,13 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int left{0}, total{0};
-        int freqs[3] = {0};
+        int total{0};
+        int lastSeen[3] = {-1, -1, -1}; 
 
         for (int right{0}; right < s.length(); right++)
         {
-            freqs[s[right] - 'a']++;
-
-            while (freqs[0] > 0 && freqs[1] > 0 && freqs[2] > 0)
-            {
-                freqs[s[left] - 'a']--;
-                left++;
-            }
-
-            total += left;
+            lastSeen[s[right] - 'a'] = right;
+            total += min({lastSeen[0], lastSeen[1], lastSeen[2]}) + 1;
         }
         
         return total;

@@ -306,6 +306,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | [0930-binary-subarrays-with-sum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -331,12 +332,14 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | [1004-max-consecutive-ones-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

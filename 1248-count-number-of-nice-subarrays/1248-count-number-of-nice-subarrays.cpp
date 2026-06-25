@@ -1,26 +1,25 @@
 class Solution {
-private:
-    int solve(const vector<int>& nums, int k)
-    {
-        if (k < 0) return 0;
-        int left{0}, numOdds{0}, count{0};
+public:
+    int numberOfSubarrays(vector<int>& nums, int k) {
+        int left{0}, numOdds{0}, total{0}, curr{0};
 
         for (int right{0}; right < nums.size(); right++)
         {
-            if (nums[right] & 1) numOdds++;
+            if (nums[right] & 1) 
+            {
+                numOdds++;
+                curr = 0;
+            }
 
-            while (numOdds > k)
+            while (numOdds == k)
             {
                 if (nums[left] & 1) numOdds--;
+                curr++;
                 left++;
             }
 
-            count += right - left + 1;
+            total += curr;
         }
-        return count;
-    }
-public:
-    int numberOfSubarrays(vector<int>& nums, int k) {
-        return solve(nums, k) - solve(nums, k - 1);
+        return total;
     }
 };

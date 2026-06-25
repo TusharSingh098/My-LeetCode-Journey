@@ -324,9 +324,18 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->

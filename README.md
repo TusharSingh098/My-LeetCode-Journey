@@ -329,6 +329,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -346,6 +347,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -354,6 +356,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Math

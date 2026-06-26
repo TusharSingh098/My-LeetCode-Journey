@@ -1,11 +1,11 @@
 class Solution {
 private:
-    int solve(std::vector<int>& nums, int k)
+    int solve(vector<int>& nums, int k)
     {
         if (k <= 0) return 0;
         
         int left{0}, distincts{0}, count{0};
-        std::unordered_map<int, int> mpp;
+        unordered_map<int, int> mpp;
 
         for (int right{0}; right < nums.size(); right++)
         {
@@ -17,7 +17,7 @@ private:
             }
 
             count += right - left + 1;
-            std::cout << right - left + 1 << "\n";
+            cout << right - left + 1 << "\n";
         }
 
         return count;

@@ -10,10 +10,11 @@ public:
         }
 
         vector<int> freqs(58, 0);
+        int sLen = s.length();
         int left{0}, right{0}, curr{0};
         int minLen{INT_MAX}, startIdx{0};
 
-        while (right < s.length())
+        while (right < sLen)
         {
             char ch{s[right]};
             freqs[ch - 'A']++;

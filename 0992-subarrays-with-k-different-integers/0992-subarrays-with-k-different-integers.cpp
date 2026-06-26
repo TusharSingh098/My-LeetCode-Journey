@@ -1,19 +1,20 @@
 class Solution {
 private:
-    int solve(vector<int>& nums, int k)
+    int solve(const vector<int>& nums, int k)
     {
         if (k <= 0) return 0;
         
+        int n = nums.size();
         int left{0}, distincts{0}, count{0};
-        unordered_map<int, int> mpp;
+        vector<int> freqs(n + 1, 0);
 
-        for (int right{0}; right < nums.size(); right++)
+        for (int right{0}; right < n; right++)
         {
-            if (mpp[nums[right]]++ == 0) distincts++;
+            if (freqs[nums[right]]++ == 0) distincts++;
 
             while (distincts > k)
             {
-                if (mpp[nums[left++]]-- == 1) distincts--;
+                if (freqs[nums[left++]]-- == 1) distincts--;
             }
 
             count += right - left + 1;

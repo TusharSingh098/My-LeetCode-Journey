@@ -18,7 +18,6 @@ private:
             }
 
             count += right - left + 1;
-            cout << right - left + 1 << "\n";
         }
 
         return count;

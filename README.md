@@ -95,6 +95,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0073 | [Set Matrix Zeroes](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0073-set-matrix-zeroes/) | Medium | `Array`, `Hash Table`, `Matrix` |
 | 0074 | [Search A 2D Matrix](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0074-search-a-2d-matrix/) | Medium | `Array`, `Binary Search`, `Matrix` |
 | 0075 | [Sort Colors](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0075-sort-colors/) | Medium | `Array`, `Two Pointers`, `Sorting` |
+| 0076 | [Minimum Window Substring](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0076-minimum-window-substring/) | Hard | `Hash Table`, `String`, `Sliding Window` |
 | 0078 | [Subsets](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0078-subsets/) | Medium | `Array`, `Backtracking`, `Bit Manipulation` |
 | 0079 | [Word Search](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0079-word-search/) | Medium | `Array`, `String`, `Backtracking`, `Depth-First Search`, `Matrix` |
 | 0081 | [Search In Rotated Sorted Array Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium | `Array`, `Binary Search` |
@@ -187,6 +188,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0412 | [Fizz Buzz](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0412-fizz-buzz/) | Easy | `Math`, `String`, `Simulation` |
 | 0414 | [Third Maximum Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0414-third-maximum-number/) | Easy | `Array`, `Sorting` |
 | 0415 | [Add Strings](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0415-add-strings/) | Easy | `Math`, `String`, `Simulation` |
+| 0424 | [Longest Repeating Character Replacement](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium | `Hash Table`, `String`, `Sliding Window` |
 | 0434 | [Number Of Segments In A String](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0434-number-of-segments-in-a-string/) | Easy | `String` |
 | 0441 | [Arranging Coins](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0441-arranging-coins/) | Easy | `Math`, `Binary Search` |
 | 0448 | [Find All Numbers Disappeared In An Array](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy | `Array`, `Hash Table` |
@@ -264,15 +266,22 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0907 | [Koko Eating Bananas](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0907-koko-eating-bananas/) | Medium | `Array`, `Binary Search` |
 | 0907 | [Sum Of Subarray Minimums](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0907-sum-of-subarray-minimums/) | Medium | `Array`, `Dynamic Programming`, `Stack`, `Monotonic Stack` |
 | 0908 | [Middle Of The Linked List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0908-middle-of-the-linked-list/) | Easy | `Linked List`, `Two Pointers` |
+| 0930 | [Binary Subarrays With Sum](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium | `Array`, `Hash Table`, `Sliding Window`, `Prefix Sum` |
+| 0992 | [Subarrays With K Different Integers](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard | `Array`, `Hash Table`, `Sliding Window`, `Counting` |
+| 1004 | [Max Consecutive Ones Iii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium | `Array`, `Binary Search`, `Sliding Window`, `Prefix Sum` |
 | 1013 | [Fibonacci Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1013-fibonacci-number/) | Easy | `Math`, `Dynamic Programming`, `Recursion`, `Memoization` |
 | 1056 | [Capacity To Ship Packages Within D Days](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1056-capacity-to-ship-packages-within-d-days/) | Medium | `Array`, `Binary Search` |
 | 1078 | [Remove Outermost Parentheses](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1078-remove-outermost-parentheses/) | Easy | `String`, `Stack` |
+| 1248 | [Count Number Of Nice Subarrays](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium | `Array`, `Hash Table`, `Math`, `Sliding Window`, `Prefix Sum` |
 | 1306 | [Minimum Absolute Difference](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1306-minimum-absolute-difference/) | Easy | `Array`, `Sorting` |
+| 1358 | [Number Of Substrings Containing All Three Characters](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium | `Hash Table`, `String`, `Sliding Window` |
 | 1408 | [Find The Smallest Divisor Given A Threshold](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1408-find-the-smallest-divisor-given-a-threshold/) | Medium | `Array`, `Binary Search` |
+| 1423 | [Maximum Points You Can Obtain From Cards](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium | `Array`, `Sliding Window`, `Prefix Sum` |
 | 1444 | [Number Of Steps To Reduce A Number To Zero](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1444-number-of-steps-to-reduce-a-number-to-zero/) | Easy | `Math`, `Bit Manipulation` |
 | 1605 | [Minimum Number Of Days To Make M Bouquets](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1605-minimum-number-of-days-to-make-m-bouquets/) | Medium | `Array`, `Binary Search` |
 | 1646 | [Kth Missing Positive Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1646-kth-missing-positive-number/) | Easy | `Array`, `Binary Search` |
 | 1737 | [Maximum Nesting Depth Of The Parentheses](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1737-maximum-nesting-depth-of-the-parentheses/) | Easy | `String`, `Stack` |
+| 1833 | [Maximum Ice Cream Bars](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1833-maximum-ice-cream-bars/) | Medium | `Array`, `Greedy`, `Sorting`, `Counting Sort` |
 | 1878 | [Check If Array Is Sorted And Rotated](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1878-check-if-array-is-sorted-and-rotated/) | Easy | `Array` |
 | 1890 | [Sum Of Beauty Of All Substrings](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1890-sum-of-beauty-of-all-substrings/) | Medium | `Hash Table`, `String`, `Counting` |
 | 1938 | [Minimum Operations To Make The Array Increasing](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1938-minimum-operations-to-make-the-array-increasing/) | Easy | `Array`, `Greedy` |
@@ -297,70 +306,3 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 4316 | [Minimum Swaps To Move Zeros To End](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4316-minimum-swaps-to-move-zeros-to-end/) | Easy | `Array`, `Two Pointers` |
 
 </details>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0930-binary-subarrays-with-sum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
-| [0992-subarrays-with-k-different-integers](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
-| [1004-max-consecutive-ones-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
-| [1248-count-number-of-nice-subarrays](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
-| [1833-maximum-ice-cream-bars](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1833-maximum-ice-cream-bars](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1833-maximum-ice-cream-bars](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
-## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0992-subarrays-with-k-different-integers](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
-| [1833-maximum-ice-cream-bars](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1004-max-consecutive-ones-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0076-minimum-window-substring](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0076-minimum-window-substring/) | Hard |
-| [0424-longest-repeating-character-replacement](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
-| [0930-binary-subarrays-with-sum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
-| [0992-subarrays-with-k-different-integers](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
-| [1004-max-consecutive-ones-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
-| [1248-count-number-of-nice-subarrays](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0930-binary-subarrays-with-sum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
-| [1004-max-consecutive-ones-iii](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
-| [1248-count-number-of-nice-subarrays](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0076-minimum-window-substring](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0076-minimum-window-substring/) | Hard |
-| [0424-longest-repeating-character-replacement](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
-| [0930-binary-subarrays-with-sum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
-| [0992-subarrays-with-k-different-integers](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
-| [1248-count-number-of-nice-subarrays](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0076-minimum-window-substring](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0076-minimum-window-substring/) | Hard |
-| [0424-longest-repeating-character-replacement](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1248-count-number-of-nice-subarrays](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
-<!---LeetCode Topics End-->

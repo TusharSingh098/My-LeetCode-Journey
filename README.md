@@ -316,6 +316,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0146-lru-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0146-lru-cache/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -325,4 +326,16 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0146-lru-cache/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->

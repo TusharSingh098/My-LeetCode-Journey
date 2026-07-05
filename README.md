@@ -66,6 +66,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0020 | [Valid Parentheses](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0020-valid-parentheses/) | Easy | `String`, `Stack` |
 | 0021 | [Merge Two Sorted Lists](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0021-merge-two-sorted-lists/) | Easy | `Linked List`, `Recursion` |
 | 0022 | [Generate Parentheses](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0022-generate-parentheses/) | Medium | `String`, `Dynamic Programming`, `Backtracking` |
+| 0023 | [Merge K Sorted Lists](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0023-merge-k-sorted-lists/) | Hard | `Linked List`, `Divide and Conquer`, `Heap (Priority Queue)`, `Merge Sort` |
 | 0025 | [Reverse Nodes In K Group](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0025-reverse-nodes-in-k-group/) | Hard | `Linked List`, `Recursion` |
 | 0026 | [Remove Duplicates From Sorted Array](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy | `Array`, `Two Pointers` |
 | 0027 | [Remove Element](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0027-remove-element/) | Easy | `Array`, `Two Pointers` |
@@ -306,36 +307,3 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 4316 | [Minimum Swaps To Move Zeros To End](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4316-minimum-swaps-to-move-zeros-to-end/) | Easy | `Array`, `Two Pointers` |
 
 </details>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0146-lru-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0146-lru-cache/) | Medium |
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0023-merge-k-sorted-lists](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0023-merge-k-sorted-lists/) | Hard |
-| [0146-lru-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0146-lru-cache/) | Medium |
-## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0146-lru-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0146-lru-cache/) | Medium |
-## Doubly-Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0146-lru-cache](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0146-lru-cache/) | Medium |
-## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0023-merge-k-sorted-lists](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0023-merge-k-sorted-lists/) | Hard |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0023-merge-k-sorted-lists](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0023-merge-k-sorted-lists/) | Hard |
-## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0023-merge-k-sorted-lists](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0023-merge-k-sorted-lists/) | Hard |
-<!---LeetCode Topics End-->

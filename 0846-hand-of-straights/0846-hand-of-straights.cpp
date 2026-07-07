@@ -2,29 +2,30 @@ class Solution {
 public:
     bool isNStraightHand(vector<int>& hand, int groupSize) {
         if (hand.size() % groupSize != 0) return false;
-        map<int, int> mpp;
-        for (int val: hand) mpp[val]++;
+        unordered_map<int, int> count;
+        for (int card: hand) count[card]++;
 
-        auto it{mpp.begin()};
-
-        while (it != mpp.end())
+        for (int card: hand)
         {
-            if (it->second == 0)
-            {
-                it++;
-                continue;
-            }
+            if (count[card] == 0) continue;
 
-            int start{it->first}, count{it->second};
-
-            for (int i{0}; i < groupSize; i++)
+            int start{card};
+            while (count[start - 1] > 0) start--;
+            
+            while (start <= card)
             {
-                if (mpp[start + i] < count) return false;
-                mpp[start + i] -= count;
+                while (count[start] > 0)
+                {
+                    int start_freq = count[start];
+                    for (int i{0}; i < groupSize; i++)
+                    {
+                        if (count[start + i] < start_freq) return false;
+                        count[start + i] -= start_freq;
+                    }
+                }
+                start++;
             }
-            it++;
         }
-
         return true;
     }
 };

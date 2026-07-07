@@ -314,18 +314,22 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
+| [0846-hand-of-straights](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0846-hand-of-straights/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
+| [0846-hand-of-straights](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0846-hand-of-straights/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
+| [0846-hand-of-straights](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0846-hand-of-straights/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
+| [0846-hand-of-straights](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0846-hand-of-straights/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

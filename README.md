@@ -307,3 +307,31 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 4316 | [Minimum Swaps To Move Zeros To End](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4316-minimum-swaps-to-move-zeros-to-end/) | Easy | `Array`, `Two Pointers` |
 
 </details>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0621-task-scheduler](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0621-task-scheduler](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0621-task-scheduler](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0621-task-scheduler](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0621-task-scheduler](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0621-task-scheduler](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
+<!---LeetCode Topics End-->

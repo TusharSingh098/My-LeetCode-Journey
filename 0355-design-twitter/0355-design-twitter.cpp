@@ -15,37 +15,44 @@ public:
     
     vector<int> getNewsFeed(int userId) 
     {
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> pq;
+        priority_queue<pair<int, pair<int, int>>> pq;
 
-        for (auto& tweet: tweets[userId])
+        if (tweets.count(userId) && !tweets[userId].empty())
         {
-            pq.push(tweet);
-            if (pq.size() > 10) pq.pop();
+            int idx = tweets[userId].size() - 1;
+            pq.push({tweets[userId][idx].first, {idx, userId}});
         }
 
-        for (int follower: following[userId])
+        for (int followeeId : following[userId])
         {
-            for (auto& tweet: tweets[follower])
+            if (tweets.count(followeeId) && !tweets[followeeId].empty())
             {
-                pq.push(tweet);
-                if (pq.size() > 10) pq.pop();
+                int idx = static_cast<int>(tweets[followeeId].size()) - 1;
+                pq.push({tweets[followeeId][idx].first, {idx, followeeId}});
             }
         }
 
         vector<int> ans;
-        while (!pq.empty())
+        while (!pq.empty() && ans.size() < 10)
         {
-            ans.push_back(pq.top().second);
+            auto top{pq.top()};
             pq.pop();
+
+            int currTime{top.first};
+            int idx{top.second.first};
+            int uId{top.second.second};
+
+            ans.push_back(tweets[uId][idx].second);
+
+            if (idx > 0) pq.push({tweets[uId][idx - 1].first, {idx - 1, uId}});
         }
-        reverse(ans.begin(), ans.end());
 
         return ans;
     }
     
     void follow(int followerId, int followeeId) 
     {
-        following[followerId].insert(followeeId);
+        if (followerId != followeeId) following[followerId].insert(followeeId);
     }
     
     void unfollow(int followerId, int followeeId) 

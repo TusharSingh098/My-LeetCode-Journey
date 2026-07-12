@@ -175,6 +175,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0345 | [Reverse Vowels Of A String](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0345-reverse-vowels-of-a-string/) | Easy | `Two Pointers`, `String` |
 | 0349 | [Intersection Of Two Arrays](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0349-intersection-of-two-arrays/) | Easy | `Array`, `Hash Table`, `Two Pointers`, `Binary Search`, `Sorting` |
 | 0350 | [Intersection Of Two Arrays Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0350-intersection-of-two-arrays-ii/) | Easy | `Array`, `Hash Table`, `Two Pointers`, `Binary Search`, `Sorting` |
+| 0355 | [Design Twitter](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0355-design-twitter/) | Medium | `Hash Table`, `Linked List`, `Design`, `Heap (Priority Queue)` |
 | 0367 | [Valid Perfect Square](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0367-valid-perfect-square/) | Easy | `Math`, `Binary Search` |
 | 0374 | [Guess Number Higher Or Lower](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0374-guess-number-higher-or-lower/) | Easy | `Binary Search`, `Interactive` |
 | 0383 | [Ransom Note](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0383-ransom-note/) | Easy | `Hash Table`, `String`, `Counting` |
@@ -225,6 +226,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0598 | [Range Addition Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0598-range-addition-ii/) | Easy | `Array`, `Math` |
 | 0599 | [Minimum Index Sum Of Two Lists](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy | `Array`, `Hash Table`, `String` |
 | 0605 | [Can Place Flowers](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0605-can-place-flowers/) | Easy | `Array`, `Greedy` |
+| 0621 | [Task Scheduler](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0621-task-scheduler/) | Medium | `Array`, `Hash Table`, `Greedy`, `Sorting`, `Heap (Priority Queue)`, `Counting` |
 | 0628 | [Maximum Product Of Three Numbers](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0628-maximum-product-of-three-numbers/) | Easy | `Array`, `Math`, `Sorting` |
 | 0643 | [Maximum Average Subarray I](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0643-maximum-average-subarray-i/) | Easy | `Array`, `Sliding Window` |
 | 0645 | [Set Mismatch](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0645-set-mismatch/) | Easy | `Array`, `Hash Table`, `Bit Manipulation`, `Sorting` |
@@ -258,6 +260,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0830 | [Largest Triangle Area](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0830-largest-triangle-area/) | Easy | `Array`, `Math`, `Geometry` |
 | 0837 | [Most Common Word](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0837-most-common-word/) | Easy | `Array`, `Hash Table`, `String`, `Counting` |
 | 0841 | [Shortest Distance To A Character](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0841-shortest-distance-to-a-character/) | Easy | `Array`, `Two Pointers`, `String` |
+| 0846 | [Hand Of Straights](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0846-hand-of-straights/) | Medium | `Array`, `Hash Table`, `Greedy`, `Sorting` |
 | 0851 | [Goat Latin](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0851-goat-latin/) | Easy | `String` |
 | 0857 | [Positions Of Large Groups](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0857-positions-of-large-groups/) | Easy | `String` |
 | 0861 | [Flipping An Image](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0861-flipping-an-image/) | Easy | `Array`, `Two Pointers`, `Bit Manipulation`, `Matrix`, `Simulation` |
@@ -307,45 +310,3 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 4316 | [Minimum Swaps To Move Zeros To End](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4316-minimum-swaps-to-move-zeros-to-end/) | Easy | `Array`, `Two Pointers` |
 
 </details>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0621-task-scheduler](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
-| [0846-hand-of-straights](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0846-hand-of-straights/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0355-design-twitter](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0355-design-twitter/) | Medium |
-| [0621-task-scheduler](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
-| [0846-hand-of-straights](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0846-hand-of-straights/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0621-task-scheduler](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
-| [0846-hand-of-straights](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0846-hand-of-straights/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0621-task-scheduler](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
-| [0846-hand-of-straights](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0846-hand-of-straights/) | Medium |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0355-design-twitter](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0355-design-twitter/) | Medium |
-| [0621-task-scheduler](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0621-task-scheduler](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0355-design-twitter](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0355-design-twitter/) | Medium |
-## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0355-design-twitter](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0355-design-twitter/) | Medium |
-<!---LeetCode Topics End-->

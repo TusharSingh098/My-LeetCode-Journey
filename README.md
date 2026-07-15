@@ -310,3 +310,23 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 4316 | [Minimum Swaps To Move Zeros To End](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4316-minimum-swaps-to-move-zeros-to-end/) | Easy | `Array`, `Two Pointers` |
 
 </details>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0355-design-twitter](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0355-design-twitter/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0355-design-twitter](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0355-design-twitter/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0355-design-twitter](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0355-design-twitter/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0355-design-twitter](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0355-design-twitter/) | Medium |
+<!---LeetCode Topics End-->

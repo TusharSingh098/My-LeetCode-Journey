@@ -1,16 +1,5 @@
-struct TweetNode 
+class Twitter 
 {
-    int timestamp;
-    int tweetIdx;
-    int userId;
-
-    bool operator<(const TweetNode& other) const 
-    {
-        return timestamp < other.timestamp;
-    }
-};
-
-class Twitter {
 private:
     int time;
     unordered_map<int, vector<pair<int, int>>> tweets;
@@ -19,60 +8,48 @@ private:
 public:
     Twitter() : time(0) {}
     
-    void postTweet(int userId, int tweetId) {
+    void postTweet(int userId, int tweetId) 
+    {
         tweets[userId].push_back({time++, tweetId});
     }
     
-    vector<int> getNewsFeed(int userId) {
-        priority_queue<TweetNode> pq;
+    vector<int> getNewsFeed(int userId) 
+    {
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> pq;
 
-        if (tweets.count(userId) && !tweets[userId].empty()) 
+        for (auto& tweet: tweets[userId])
         {
-            int idx = static_cast<int>(tweets[userId].size()) - 1;
-            pq.push({tweets[userId][idx].first, idx, userId});
+            pq.push(tweet);
+            if (pq.size() > 10) pq.pop();
         }
 
-        if (following.count(userId)) 
+        for (int follower: following[userId])
         {
-            for (int followeeId : following[userId]) 
+            for (auto& tweet: tweets[follower])
             {
-                if (tweets.count(followeeId) && !tweets[followeeId].empty()) 
-                {
-                    int idx = static_cast<int>(tweets[followeeId].size()) - 1;
-                    pq.push({tweets[followeeId][idx].first, idx, followeeId});
-                }
+                pq.push(tweet);
+                if (pq.size() > 10) pq.pop();
             }
         }
 
         vector<int> ans;
-        while (!pq.empty() && ans.size() < 10) 
+        while (!pq.empty())
         {
-            TweetNode top = pq.top();
+            ans.push_back(pq.top().second);
             pq.pop();
-
-            ans.push_back(tweets[top.userId][top.tweetIdx].second);
-
-            if (top.tweetIdx > 0) 
-            {
-                int nextIdx = top.tweetIdx - 1;
-                pq.push({tweets[top.userId][nextIdx].first, nextIdx, top.userId});
-            }
         }
+        reverse(ans.begin(), ans.end());
 
         return ans;
     }
     
-    void follow(int followerId, int followeeId) {
-        if (followerId != followeeId) 
-        {
-            following[followerId].insert(followeeId);
-        }
+    void follow(int followerId, int followeeId) 
+    {
+        following[followerId].insert(followeeId);
     }
     
-    void unfollow(int followerId, int followeeId) {
-        if (following.count(followerId)) 
-        {
-            following[followerId].erase(followeeId);
-        }
+    void unfollow(int followerId, int followeeId) 
+    {
+        following[followerId].erase(followeeId);
     }
 };

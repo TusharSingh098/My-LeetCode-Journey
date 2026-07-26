@@ -144,7 +144,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0216 | [Combination Sum Iii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0216-combination-sum-iii/) | Medium | `Array`, `Backtracking` |
 | 0217 | [Contains Duplicate](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0217-contains-duplicate/) | Easy | `Array`, `Hash Table`, `Sorting` |
 | 0219 | [Contains Duplicate Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0219-contains-duplicate-ii/) | Easy | `Array`, `Hash Table`, `Sliding Window` |
-| 0222 | [Count Complete Tree Nodes](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0222-count-complete-tree-nodes/) | Easy | `Binary Search`, `Bit Manipulation`, `Tree`, `Binary Tree` |
+| 0222 | [Count Complete Tree Nodes](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0222-count-complete-tree-nodes/) | Medium | `Binary Search`, `Bit Manipulation`, `Tree`, `Binary Tree` |
 | 0225 | [Implement Stack Using Queues](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0225-implement-stack-using-queues/) | Easy | `Stack`, `Design`, `Queue` |
 | 0226 | [Invert Binary Tree](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0226-invert-binary-tree/) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | 0228 | [Summary Ranges](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0228-summary-ranges/) | Easy | `Array` |

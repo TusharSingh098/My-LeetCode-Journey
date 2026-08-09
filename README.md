@@ -53,7 +53,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0002 | [Add Two Numbers](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0002-add-two-numbers/) | Medium | `Linked List`, `Math`, `Recursion` |
 | 0003 | [Longest Substring Without Repeating Characters](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium | `Hash Table`, `String`, `Sliding Window` |
 | 0004 | [Median Of Two Sorted Arrays](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0004-median-of-two-sorted-arrays/) | Hard | `Array`, `Binary Search`, `Divide and Conquer` |
-| 0005 | [Longest Palindromic Substring](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0005-longest-palindromic-substring/) | Medium | `Two Pointers`, `String`, `Dynamic Programming` |
+| 0005 | [Longest Palindromic Substring](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0005-longest-palindromic-substring/) | Medium | `Two Pointers`, `String`, `Dynamic Programming`, `Manacher` |
 | 0007 | [Reverse Integer](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0007-reverse-integer/) | Medium | `Math` |
 | 0008 | [String To Integer Atoi](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0008-string-to-integer-atoi/) | Medium | `String` |
 | 0009 | [Palindrome Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0009-palindrome-number/) | Easy | `Math` |
@@ -63,45 +63,45 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0017 | [Letter Combinations Of A Phone Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium | `Hash Table`, `String`, `Backtracking` |
 | 0018 | [4Sum](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0018-4sum/) | Medium | `Array`, `Two Pointers`, `Sorting` |
 | 0019 | [Remove Nth Node From End Of List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium | `Linked List`, `Two Pointers` |
-| 0020 | [Valid Parentheses](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0020-valid-parentheses/) | Easy | `String`, `Stack` |
+| 0020 | [Valid Parentheses](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0020-valid-parentheses/) | Easy | `String`, `Stack`, `Bracket Sequences` |
 | 0021 | [Merge Two Sorted Lists](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0021-merge-two-sorted-lists/) | Easy | `Linked List`, `Recursion` |
-| 0022 | [Generate Parentheses](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0022-generate-parentheses/) | Medium | `String`, `Dynamic Programming`, `Backtracking` |
-| 0023 | [Merge K Sorted Lists](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0023-merge-k-sorted-lists/) | Hard | `Linked List`, `Divide and Conquer`, `Heap (Priority Queue)`, `Merge Sort` |
+| 0022 | [Generate Parentheses](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0022-generate-parentheses/) | Medium | `String`, `Dynamic Programming`, `Backtracking`, `Bracket Sequences` |
+| 0023 | [Merge K Sorted Lists](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0023-merge-k-sorted-lists/) | Hard | `Linked List`, `Divide and Conquer`, `Heap (Priority Queue)`, `Merge Sort`, `Tournament Sort` |
 | 0025 | [Reverse Nodes In K Group](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0025-reverse-nodes-in-k-group/) | Hard | `Linked List`, `Recursion` |
 | 0026 | [Remove Duplicates From Sorted Array](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy | `Array`, `Two Pointers` |
 | 0027 | [Remove Element](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0027-remove-element/) | Easy | `Array`, `Two Pointers` |
-| 0028 | [Find The Index Of The First Occurrence In A String](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | `Two Pointers`, `String`, `String Matching` |
+| 0028 | [Find The Index Of The First Occurrence In A String](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | `Two Pointers`, `String`, `String Matching`, `Z Algorithm`, `Knuth–Morris–Pratt Algorithm`, `Boyer–Moore String-Search Algorithm` |
 | 0029 | [Divide Two Integers](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0029-divide-two-integers/) | Medium | `Math`, `Bit Manipulation` |
 | 0031 | [Next Permutation](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0031-next-permutation/) | Medium | `Array`, `Two Pointers` |
 | 0033 | [Search In Rotated Sorted Array](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium | `Array`, `Binary Search` |
 | 0034 | [Find First And Last Position Of Element In Sorted Array](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium | `Array`, `Binary Search` |
 | 0035 | [Search Insert Position](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0035-search-insert-position/) | Easy | `Array`, `Binary Search` |
-| 0037 | [Sudoku Solver](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0037-sudoku-solver/) | Hard | `Array`, `Hash Table`, `Backtracking`, `Matrix` |
+| 0037 | [Sudoku Solver](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0037-sudoku-solver/) | Hard | `Array`, `Hash Table`, `Backtracking`, `Matrix`, `Algorithm X`, `Dancing Links` |
 | 0039 | [Combination Sum](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0039-combination-sum/) | Medium | `Array`, `Backtracking` |
 | 0040 | [Combination Sum Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0040-combination-sum-ii/) | Medium | `Array`, `Backtracking` |
 | 0042 | [Trapping Rain Water](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0042-trapping-rain-water/) | Hard | `Array`, `Two Pointers`, `Dynamic Programming`, `Stack`, `Monotonic Stack` |
 | 0048 | [Rotate Image](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0048-rotate-image/) | Medium | `Array`, `Math`, `Matrix` |
 | 0050 | [Powx N](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0050-powx-n/) | Medium | `Math`, `Recursion` |
-| 0051 | [N Queens](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0051-n-queens/) | Hard | `Array`, `Backtracking` |
+| 0051 | [N Queens](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0051-n-queens/) | Hard | `Array`, `Backtracking`, `Algorithm X` |
 | 0053 | [Maximum Subarray](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0053-maximum-subarray/) | Medium | `Array`, `Divide and Conquer`, `Dynamic Programming` |
 | 0054 | [Spiral Matrix](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0054-spiral-matrix/) | Medium | `Array`, `Matrix`, `Simulation` |
-| 0056 | [Merge Intervals](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0056-merge-intervals/) | Medium | `Array`, `Sorting` |
+| 0056 | [Merge Intervals](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0056-merge-intervals/) | Medium | `Array`, `Sorting`, `Quicksort` |
 | 0058 | [Length Of Last Word](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0058-length-of-last-word/) | Easy | `String` |
 | 0061 | [Rotate List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0061-rotate-list/) | Medium | `Linked List`, `Two Pointers` |
 | 0062 | [Unique Paths](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0062-unique-paths/) | Medium | `Math`, `Dynamic Programming`, `Combinatorics` |
 | 0066 | [Plus One](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0066-plus-one/) | Easy | `Array`, `Math` |
 | 0067 | [Add Binary](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0067-add-binary/) | Easy | `Math`, `String`, `Bit Manipulation`, `Simulation` |
-| 0069 | [Sqrtx](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0069-sqrtx/) | Easy | `Math`, `Binary Search` |
+| 0069 | [Sqrtx](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0069-sqrtx/) | Easy | `Math`, `Binary Search`, `Newton's Method` |
 | 0070 | [Climbing Stairs](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0070-climbing-stairs/) | Easy | `Math`, `Dynamic Programming`, `Memoization` |
 | 0073 | [Set Matrix Zeroes](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0073-set-matrix-zeroes/) | Medium | `Array`, `Hash Table`, `Matrix` |
 | 0074 | [Search A 2D Matrix](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0074-search-a-2d-matrix/) | Medium | `Array`, `Binary Search`, `Matrix` |
-| 0075 | [Sort Colors](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0075-sort-colors/) | Medium | `Array`, `Two Pointers`, `Sorting` |
+| 0075 | [Sort Colors](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0075-sort-colors/) | Medium | `Array`, `Two Pointers`, `Sorting`, `Quicksort`, `Bubble Sort` |
 | 0076 | [Minimum Window Substring](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0076-minimum-window-substring/) | Hard | `Hash Table`, `String`, `Sliding Window` |
 | 0078 | [Subsets](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0078-subsets/) | Medium | `Array`, `Backtracking`, `Bit Manipulation` |
 | 0079 | [Word Search](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0079-word-search/) | Medium | `Array`, `String`, `Backtracking`, `Depth-First Search`, `Matrix` |
 | 0081 | [Search In Rotated Sorted Array Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium | `Array`, `Binary Search` |
 | 0083 | [Remove Duplicates From Sorted List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy | `Linked List` |
-| 0084 | [Largest Rectangle In Histogram](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard | `Array`, `Stack`, `Monotonic Stack` |
+| 0084 | [Largest Rectangle In Histogram](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard | `Array`, `Stack`, `Monotonic Stack`, `Range Minimum/Maximum Query` |
 | 0085 | [Maximal Rectangle](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0085-maximal-rectangle/) | Hard | `Array`, `Dynamic Programming`, `Stack`, `Matrix`, `Monotonic Stack` |
 | 0088 | [Merge Sorted Array](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0088-merge-sorted-array/) | Easy | `Array`, `Two Pointers`, `Sorting` |
 | 0090 | [Subsets Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0090-subsets-ii/) | Medium | `Array`, `Backtracking`, `Bit Manipulation` |
@@ -118,8 +118,8 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0136 | [Single Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0136-single-number/) | Easy | `Array`, `Bit Manipulation` |
 | 0137 | [Single Number Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0137-single-number-ii/) | Medium | `Array`, `Bit Manipulation` |
 | 0138 | [Copy List With Random Pointer](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0138-copy-list-with-random-pointer/) | Medium | `Hash Table`, `Linked List` |
-| 0141 | [Linked List Cycle](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0141-linked-list-cycle/) | Easy | `Hash Table`, `Linked List`, `Two Pointers` |
-| 0142 | [Linked List Cycle Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0142-linked-list-cycle-ii/) | Medium | `Hash Table`, `Linked List`, `Two Pointers` |
+| 0141 | [Linked List Cycle](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0141-linked-list-cycle/) | Easy | `Hash Table`, `Linked List`, `Two Pointers`, `Floyd's Cycle Finding Algorithm` |
+| 0142 | [Linked List Cycle Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0142-linked-list-cycle-ii/) | Medium | `Hash Table`, `Linked List`, `Two Pointers`, `Floyd's Cycle Finding Algorithm` |
 | 0146 | [Lru Cache](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0146-lru-cache/) | Medium | `Hash Table`, `Linked List`, `Design`, `Doubly-Linked List` |
 | 0148 | [Sort List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0148-sort-list/) | Medium | `Linked List`, `Two Pointers`, `Divide and Conquer`, `Sorting`, `Merge Sort` |
 | 0151 | [Reverse Words In A String](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0151-reverse-words-in-a-string/) | Medium | `Two Pointers`, `String` |
@@ -130,15 +130,15 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0160 | [Intersection Of Two Linked Lists](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0160-intersection-of-two-linked-lists/) | Easy | `Hash Table`, `Linked List`, `Two Pointers` |
 | 0162 | [Find Peak Element](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0162-find-peak-element/) | Medium | `Array`, `Binary Search` |
 | 0168 | [Excel Sheet Column Title](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0168-excel-sheet-column-title/) | Easy | `Math`, `String` |
-| 0169 | [Majority Element](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0169-majority-element/) | Easy | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Counting` |
+| 0169 | [Majority Element](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0169-majority-element/) | Easy | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Counting`, `Boyer–Moore Majority Vote Algorithm` |
 | 0171 | [Excel Sheet Column Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0171-excel-sheet-column-number/) | Easy | `Math`, `String` |
 | 0172 | [Factorial Trailing Zeroes](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0172-factorial-trailing-zeroes/) | Medium | `Math` |
 | 0189 | [Rotate Array](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0189-rotate-array/) | Medium | `Array`, `Math`, `Two Pointers` |
 | 0190 | [Reverse Bits](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0190-reverse-bits/) | Easy | `Divide and Conquer`, `Bit Manipulation` |
 | 0191 | [Number Of 1 Bits](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0191-number-of-1-bits/) | Easy | `Divide and Conquer`, `Bit Manipulation` |
-| 0202 | [Happy Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0202-happy-number/) | Easy | `Hash Table`, `Math`, `Two Pointers` |
+| 0202 | [Happy Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0202-happy-number/) | Easy | `Hash Table`, `Math`, `Two Pointers`, `Floyd's Cycle Finding Algorithm` |
 | 0203 | [Remove Linked List Elements](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0203-remove-linked-list-elements/) | Easy | `Linked List`, `Recursion` |
-| 0204 | [Count Primes](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0204-count-primes/) | Medium | `Array`, `Math`, `Enumeration`, `Number Theory` |
+| 0204 | [Count Primes](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0204-count-primes/) | Medium | `Array`, `Math`, `Enumeration`, `Number Theory`, `Primality Test`, `Sieve Theory`, `Prime Number Sieve` |
 | 0205 | [Isomorphic Strings](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0205-isomorphic-strings/) | Easy | `Hash Table`, `String` |
 | 0206 | [Reverse Linked List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0206-reverse-linked-list/) | Easy | `Linked List`, `Recursion` |
 | 0216 | [Combination Sum Iii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0216-combination-sum-iii/) | Medium | `Array`, `Backtracking` |
@@ -148,12 +148,12 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0225 | [Implement Stack Using Queues](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0225-implement-stack-using-queues/) | Easy | `Stack`, `Design`, `Queue` |
 | 0226 | [Invert Binary Tree](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0226-invert-binary-tree/) | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | 0228 | [Summary Ranges](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0228-summary-ranges/) | Easy | `Array` |
-| 0229 | [Majority Element Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0229-majority-element-ii/) | Medium | `Array`, `Hash Table`, `Sorting`, `Counting` |
+| 0229 | [Majority Element Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0229-majority-element-ii/) | Medium | `Array`, `Hash Table`, `Sorting`, `Counting`, `Boyer–Moore Majority Vote Algorithm` |
 | 0231 | [Power Of Two](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0231-power-of-two/) | Easy | `Math`, `Bit Manipulation`, `Recursion` |
 | 0232 | [Implement Queue Using Stacks](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0232-implement-queue-using-stacks/) | Easy | `Stack`, `Design`, `Queue` |
 | 0234 | [Palindrome Linked List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0234-palindrome-linked-list/) | Easy | `Linked List`, `Two Pointers`, `Stack`, `Recursion` |
 | 0237 | [Delete Node In A Linked List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0237-delete-node-in-a-linked-list/) | Medium | `Linked List` |
-| 0239 | [Sliding Window Maximum](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0239-sliding-window-maximum/) | Hard | `Array`, `Queue`, `Sliding Window`, `Heap (Priority Queue)`, `Monotonic Queue` |
+| 0239 | [Sliding Window Maximum](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0239-sliding-window-maximum/) | Hard | `Array`, `Queue`, `Sliding Window`, `Heap (Priority Queue)`, `Monotonic Queue`, `Range Minimum/Maximum Query` |
 | 0240 | [Search A 2D Matrix Ii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0240-search-a-2d-matrix-ii/) | Medium | `Array`, `Binary Search`, `Divide and Conquer`, `Matrix` |
 | 0242 | [Valid Anagram](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0242-valid-anagram/) | Easy | `Hash Table`, `String`, `Sorting` |
 | 0258 | [Add Digits](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0258-add-digits/) | Easy | `Math`, `Simulation`, `Number Theory` |
@@ -163,9 +163,9 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0278 | [First Bad Version](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0278-first-bad-version/) | Easy | `Binary Search`, `Interactive` |
 | 0282 | [Expression Add Operators](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0282-expression-add-operators/) | Hard | `Math`, `String`, `Backtracking` |
 | 0283 | [Move Zeroes](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0283-move-zeroes/) | Easy | `Array`, `Two Pointers` |
-| 0287 | [Find The Duplicate Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0287-find-the-duplicate-number/) | Medium | `Array`, `Two Pointers`, `Binary Search`, `Bit Manipulation` |
+| 0287 | [Find The Duplicate Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0287-find-the-duplicate-number/) | Medium | `Array`, `Two Pointers`, `Binary Search`, `Bit Manipulation`, `Pigeonhole Principle`, `Floyd's Cycle Finding Algorithm` |
 | 0290 | [Word Pattern](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0290-word-pattern/) | Easy | `Hash Table`, `String` |
-| 0292 | [Nim Game](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0292-nim-game/) | Easy | `Math`, `Brainteaser`, `Game Theory` |
+| 0292 | [Nim Game](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0292-nim-game/) | Easy | `Math`, `Brainteaser`, `Minimax`, `Game Theory`, `Nim Game`, `Impartial Game` |
 | 0303 | [Range Sum Query   Immutable](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0303-range-sum-query---immutable/) | Unknown | `Unknown` |
 | 0326 | [Power Of Three](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0326-power-of-three/) | Easy | `Math`, `Recursion` |
 | 0328 | [Odd Even Linked List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0328-odd-even-linked-list/) | Medium | `Linked List` |
@@ -195,8 +195,8 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0441 | [Arranging Coins](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0441-arranging-coins/) | Easy | `Math`, `Binary Search` |
 | 0448 | [Find All Numbers Disappeared In An Array](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy | `Array`, `Hash Table` |
 | 0451 | [Sort Characters By Frequency](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0451-sort-characters-by-frequency/) | Medium | `Hash Table`, `String`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting` |
-| 0455 | [Assign Cookies](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0455-assign-cookies/) | Easy | `Array`, `Two Pointers`, `Greedy`, `Sorting` |
-| 0459 | [Repeated Substring Pattern](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0459-repeated-substring-pattern/) | Easy | `String`, `String Matching` |
+| 0455 | [Assign Cookies](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0455-assign-cookies/) | Easy | `Array`, `Two Pointers`, `Greedy`, `Sorting`, `Quicksort` |
+| 0459 | [Repeated Substring Pattern](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0459-repeated-substring-pattern/) | Easy | `String`, `String Matching`, `Z Algorithm`, `Knuth–Morris–Pratt Algorithm` |
 | 0460 | [Lfu Cache](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0460-lfu-cache/) | Hard | `Hash Table`, `Linked List`, `Design`, `Doubly-Linked List` |
 | 0461 | [Hamming Distance](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0461-hamming-distance/) | Easy | `Bit Manipulation` |
 | 0463 | [Island Perimeter](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0463-island-perimeter/) | Easy | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
@@ -204,7 +204,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0482 | [License Key Formatting](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0482-license-key-formatting/) | Easy | `String` |
 | 0485 | [Max Consecutive Ones](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0485-max-consecutive-ones/) | Easy | `Array` |
 | 0492 | [Construct The Rectangle](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0492-construct-the-rectangle/) | Easy | `Math` |
-| 0493 | [Reverse Pairs](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0493-reverse-pairs/) | Hard | `Array`, `Binary Search`, `Divide and Conquer`, `Binary Indexed Tree`, `Segment Tree`, `Merge Sort`, `Ordered Set` |
+| 0493 | [Reverse Pairs](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0493-reverse-pairs/) | Hard | `Array`, `Binary Search`, `Divide and Conquer`, `Binary Indexed Tree`, `Segment Tree`, `Merge Sort`, `Ordered Set`, `Treap` |
 | 0495 | [Teemo Attacking](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0495-teemo-attacking/) | Easy | `Array`, `Simulation` |
 | 0496 | [Next Greater Element I](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0496-next-greater-element-i/) | Easy | `Array`, `Hash Table`, `Stack`, `Monotonic Stack` |
 | 0500 | [Keyboard Row](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0500-keyboard-row/) | Easy | `Array`, `Hash Table`, `String` |
@@ -248,7 +248,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0747 | [Min Cost Climbing Stairs](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0747-min-cost-climbing-stairs/) | Easy | `Array`, `Dynamic Programming` |
 | 0748 | [Largest Number At Least Twice Of Others](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0748-largest-number-at-least-twice-of-others/) | Easy | `Array`, `Sorting` |
 | 0749 | [Shortest Completing Word](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0749-shortest-completing-word/) | Easy | `Array`, `Hash Table`, `String` |
-| 0767 | [Prime Number Of Set Bits In Binary Representation](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0767-prime-number-of-set-bits-in-binary-representation/) | Easy | `Math`, `Bit Manipulation` |
+| 0767 | [Prime Number Of Set Bits In Binary Representation](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0767-prime-number-of-set-bits-in-binary-representation/) | Easy | `Math`, `Bit Manipulation`, `Primality Test` |
 | 0777 | [Toeplitz Matrix](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0777-toeplitz-matrix/) | Easy | `Array`, `Matrix` |
 | 0782 | [Jewels And Stones](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0782-jewels-and-stones/) | Easy | `Hash Table`, `String` |
 | 0783 | [Search In A Binary Search Tree](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0783-search-in-a-binary-search-tree/) | Easy | `Tree`, `Binary Search Tree`, `Binary Tree` |
@@ -257,7 +257,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0812 | [Rotate String](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0812-rotate-string/) | Easy | `String`, `String Matching` |
 | 0822 | [Unique Morse Code Words](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0822-unique-morse-code-words/) | Easy | `Array`, `Hash Table`, `String` |
 | 0824 | [Number Of Lines To Write String](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0824-number-of-lines-to-write-string/) | Easy | `Array`, `String` |
-| 0830 | [Largest Triangle Area](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0830-largest-triangle-area/) | Easy | `Array`, `Math`, `Geometry` |
+| 0830 | [Largest Triangle Area](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0830-largest-triangle-area/) | Easy | `Array`, `Math`, `Geometry`, `Polygons` |
 | 0837 | [Most Common Word](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0837-most-common-word/) | Easy | `Array`, `Hash Table`, `String`, `Counting` |
 | 0841 | [Shortest Distance To A Character](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0841-shortest-distance-to-a-character/) | Easy | `Array`, `Two Pointers`, `String` |
 | 0846 | [Hand Of Straights](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0846-hand-of-straights/) | Medium | `Array`, `Hash Table`, `Greedy`, `Sorting` |
@@ -275,7 +275,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 1004 | [Max Consecutive Ones Iii](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium | `Array`, `Binary Search`, `Sliding Window`, `Prefix Sum` |
 | 1013 | [Fibonacci Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1013-fibonacci-number/) | Easy | `Math`, `Dynamic Programming`, `Recursion`, `Memoization` |
 | 1056 | [Capacity To Ship Packages Within D Days](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1056-capacity-to-ship-packages-within-d-days/) | Medium | `Array`, `Binary Search` |
-| 1078 | [Remove Outermost Parentheses](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1078-remove-outermost-parentheses/) | Easy | `String`, `Stack` |
+| 1078 | [Remove Outermost Parentheses](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1078-remove-outermost-parentheses/) | Easy | `String`, `Stack`, `Bracket Sequences` |
 | 1248 | [Count Number Of Nice Subarrays](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium | `Array`, `Hash Table`, `Math`, `Sliding Window`, `Prefix Sum` |
 | 1306 | [Minimum Absolute Difference](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1306-minimum-absolute-difference/) | Easy | `Array`, `Sorting` |
 | 1358 | [Number Of Substrings Containing All Three Characters](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium | `Hash Table`, `String`, `Sliding Window` |
@@ -284,7 +284,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 1444 | [Number Of Steps To Reduce A Number To Zero](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1444-number-of-steps-to-reduce-a-number-to-zero/) | Easy | `Math`, `Bit Manipulation` |
 | 1605 | [Minimum Number Of Days To Make M Bouquets](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1605-minimum-number-of-days-to-make-m-bouquets/) | Medium | `Array`, `Binary Search` |
 | 1646 | [Kth Missing Positive Number](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1646-kth-missing-positive-number/) | Easy | `Array`, `Binary Search` |
-| 1737 | [Maximum Nesting Depth Of The Parentheses](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1737-maximum-nesting-depth-of-the-parentheses/) | Easy | `String`, `Stack` |
+| 1737 | [Maximum Nesting Depth Of The Parentheses](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1737-maximum-nesting-depth-of-the-parentheses/) | Easy | `String`, `Stack`, `Bracket Sequences` |
 | 1833 | [Maximum Ice Cream Bars](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1833-maximum-ice-cream-bars/) | Medium | `Array`, `Greedy`, `Sorting`, `Counting Sort` |
 | 1878 | [Check If Array Is Sorted And Rotated](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1878-check-if-array-is-sorted-and-rotated/) | Easy | `Array` |
 | 1890 | [Sum Of Beauty Of All Substrings](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/1890-sum-of-beauty-of-all-substrings/) | Medium | `Hash Table`, `String`, `Counting` |

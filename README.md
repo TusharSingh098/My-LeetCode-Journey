@@ -89,6 +89,7 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 0058 | [Length Of Last Word](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0058-length-of-last-word/) | Easy | `String` |
 | 0061 | [Rotate List](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0061-rotate-list/) | Medium | `Linked List`, `Two Pointers` |
 | 0062 | [Unique Paths](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0062-unique-paths/) | Medium | `Math`, `Dynamic Programming`, `Combinatorics` |
+| 0064 | [Minimum Path Sum](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0064-minimum-path-sum/) | Medium | `Array`, `Dynamic Programming`, `Matrix` |
 | 0066 | [Plus One](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0066-plus-one/) | Easy | `Array`, `Math` |
 | 0067 | [Add Binary](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0067-add-binary/) | Easy | `Math`, `String`, `Bit Manipulation`, `Simulation` |
 | 0069 | [Sqrtx](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/0069-sqrtx/) | Easy | `Math`, `Binary Search`, `Newton's Method` |
@@ -310,19 +311,3 @@ The database is autonomously scanned and updated via a GitHub Actions CI/CD pipe
 | 4316 | [Minimum Swaps To Move Zeros To End](https://github.com/TusharSingh098/My-LeetCode_Journey/tree/main/4316-minimum-swaps-to-move-zeros-to-end/) | Easy | `Array`, `Two Pointers` |
 
 </details>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0064-minimum-path-sum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0064-minimum-path-sum/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0064-minimum-path-sum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0064-minimum-path-sum/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0064-minimum-path-sum](https://github.com/TusharSingh098/My-LeetCode-Journey/tree/main/0064-minimum-path-sum/) | Medium |
-<!---LeetCode Topics End-->
